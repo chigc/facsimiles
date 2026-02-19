@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/manifest.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/abs-128/manifest.json",
   "type": "Manifest",
   "label": {
     "none": ["Admont, Benediktinerstift, Cod. 128"]
@@ -12,22 +12,22 @@
   },
   "items" : [
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas1",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas1",
     "type": "Canvas",
     "label": {"none":["2v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas1/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas1/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas1/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas1/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas1/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas1/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_002v.jpg",
                 "type": "Image",
@@ -43,22 +43,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas2",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas2",
     "type": "Canvas",
     "label": {"none":["3r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas2/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas2/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas2/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas2/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas2/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas2/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_003r.jpg",
                 "type": "Image",
@@ -74,22 +74,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas3",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas3",
     "type": "Canvas",
     "label": {"none":["3v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas3/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas3/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas3/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas3/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas3/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas3/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_003v.jpg",
                 "type": "Image",
@@ -105,22 +105,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas4",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas4",
     "type": "Canvas",
     "label": {"none":["4r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas4/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas4/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas4/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas4/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas4/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas4/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_004r.jpg",
                 "type": "Image",
@@ -136,22 +136,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas5",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas5",
     "type": "Canvas",
     "label": {"none":["4v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas5/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas5/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas5/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas5/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas5/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas5/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_004v.jpg",
                 "type": "Image",
@@ -167,22 +167,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas6",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas6",
     "type": "Canvas",
     "label": {"none":["5r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas6/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas6/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas6/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas6/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas6/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas6/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_005r.jpg",
                 "type": "Image",
@@ -198,22 +198,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas7",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas7",
     "type": "Canvas",
     "label": {"none":["5v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas7/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas7/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas7/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas7/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas7/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas7/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_005v.jpg",
                 "type": "Image",
@@ -229,22 +229,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas8",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas8",
     "type": "Canvas",
     "label": {"none":["6r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas8/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas8/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas8/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas8/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas8/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas8/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_006r.jpg",
                 "type": "Image",
@@ -260,22 +260,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas9",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas9",
     "type": "Canvas",
     "label": {"none":["6v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas9/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas9/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas9/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas9/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas9/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas9/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_006v.jpg",
                 "type": "Image",
@@ -291,22 +291,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas10",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas10",
     "type": "Canvas",
     "label": {"none":["7r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas10/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas10/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas10/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas10/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas10/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas10/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_007r.jpg",
                 "type": "Image",
@@ -322,22 +322,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas11",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas11",
     "type": "Canvas",
     "label": {"none":["7v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas11/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas11/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas11/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas11/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas11/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas11/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_007v.jpg",
                 "type": "Image",
@@ -353,22 +353,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas12",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas12",
     "type": "Canvas",
     "label": {"none":["8r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas12/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas12/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas12/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas12/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas12/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas12/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_008r.jpg",
                 "type": "Image",
@@ -384,22 +384,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas13",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas13",
     "type": "Canvas",
     "label": {"none":["8v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas13/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas13/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas13/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas13/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas13/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas13/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_008v.jpg",
                 "type": "Image",
@@ -415,22 +415,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas14",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas14",
     "type": "Canvas",
     "label": {"none":["9r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas14/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas14/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas14/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas14/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas14/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas14/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_009r.jpg",
                 "type": "Image",
@@ -446,22 +446,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas15",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas15",
     "type": "Canvas",
     "label": {"none":["9v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas15/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas15/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas15/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas15/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas15/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas15/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_009v.jpg",
                 "type": "Image",
@@ -477,22 +477,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas16",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas16",
     "type": "Canvas",
     "label": {"none":["10r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas16/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas16/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas16/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas16/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas16/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas16/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_010r.jpg",
                 "type": "Image",
@@ -508,22 +508,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas17",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas17",
     "type": "Canvas",
     "label": {"none":["10v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas17/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas17/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas17/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas17/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas17/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas17/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_010v.jpg",
                 "type": "Image",
@@ -539,22 +539,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas18",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas18",
     "type": "Canvas",
     "label": {"none":["11r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas18/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas18/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas18/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas18/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas18/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas18/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_011r.jpg",
                 "type": "Image",
@@ -570,22 +570,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas19",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas19",
     "type": "Canvas",
     "label": {"none":["11v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas19/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas19/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas19/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas19/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas19/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas19/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_011v.jpg",
                 "type": "Image",
@@ -601,22 +601,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas20",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas20",
     "type": "Canvas",
     "label": {"none":["12r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas20/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas20/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas20/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas20/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas20/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas20/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_012r.jpg",
                 "type": "Image",
@@ -632,22 +632,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas21",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas21",
     "type": "Canvas",
     "label": {"none":["12v"]},
     "height": 3336,
     "width": 2431,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas21/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas21/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas21/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas21/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas21/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas21/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_012v.jpg",
                 "type": "Image",
@@ -663,22 +663,22 @@
       ]
     }, 
     {
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas22",
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas22",
     "type": "Canvas",
     "label": {"none":["13r"]},
     "height": 3342,
     "width": 2439,
     "items": [
         {
-        "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas22/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas22/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas22/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas22/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/abs-128/canvas22/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas22/annoPage",
             "body": {
                 "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_013r.jpg",
                 "type": "Image",

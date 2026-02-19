@@ -1,0 +1,15 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-4-173/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 4° 173"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 4° 173. Foto: Universitäts- und Forschungsbibliothek Erfurt/Gotha. PDM 1.0" ] }
+  },
+  "items" : [    
+  ]
+}

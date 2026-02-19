@@ -1,0 +1,15 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/hhb-fr-23/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["s´-Heerenberg, Huis Bergh, Ms. fr. 23 (Inv.No. 214)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "s´-Heerenberg, Huis Bergh, Ms. fr. 23 (Inv.No. 214). Foto: Castle Huis Bergh. PDM 1.0" ] }
+  },
+  "items" : [    
+  ]
+}

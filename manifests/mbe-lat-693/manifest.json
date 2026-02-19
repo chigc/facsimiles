@@ -1,0 +1,15 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/mbe-lat-693/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Modena, Biblioteca Estense Universitaria, Estense, Lat. 693 = alfa.L.2.2"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Modena, Biblioteca Estense Universitaria, Estense, Lat. 693 = alfa.L.2.2. Image rights remain with Biblioteca Estense Universitaria." ] }
+  },
+  "items" : [    
+  ]
+}

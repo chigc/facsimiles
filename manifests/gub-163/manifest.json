@@ -1,0 +1,15 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/gub-163/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Graz, Universitätsbibliothek, Ms. 163"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Graz, Universitätsbibliothek, Ms. 163. Foto: Universität Graz. CC BY-NC-SA 3.0 AT" ] }
+  },
+  "items" : [    
+  ]
+}

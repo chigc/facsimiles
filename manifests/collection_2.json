@@ -61,6 +61,83 @@
             "label": {
                 "none":["Cambridge, University Library, MS Dd. 1.16 (C1)"]
             }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-314/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 314 (M2)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/fbm-plut-15-11/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Firenze, Biblioteca Medicea Laurenziana, Plut. 15.11 (F1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbe-lat-693/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Modena, Biblioteca Estense Universitaria, Estense, Lat. 693 = alfa.L.2.2 (Mo)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/hhb-fr-23/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["s´-Heerenberg, Huis Bergh, Ms. fr. 23 (Inv.No. 214) (Sh)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Cambridge, MA, Harvard University, Houghton Library, Ms. Typ 216 (Cm)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-12538/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Wien, Österreichische Nationalbibliothek, Cod. 12538 (W5)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/akb-wettf-9/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Aarau, Aargauer Kantonsbibliothek, Ms. WettF 9 (Aa)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/cmb-183/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Cologny, Fondation Martin Bodmer, Cod. 183 (Co)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-rh-193/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Zürich, Zentralbibliothek, Rh. 193 (Z)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-163/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Graz, Universitätsbibliothek, Ms. 163 (G1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-503/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Cambridge, Corpus Christi College, MS 503 (C11)"]
+            }
         }
     ]
 }

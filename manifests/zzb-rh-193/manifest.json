@@ -1,0 +1,15 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/zzb-rh-193/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Zürich, Zentralbibliothek, Rh. 193"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Zürich, Zentralbibliothek, Rh. 193. Foto: e-manuscripta. PDM 1.0" ] }
+  },
+  "items" : [    
+  ]
+}
