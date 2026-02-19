@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>facsimiles</title>
+        <!-- Bootstrap-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Mirador-->
+        <script src="https://cdn.jsdelivr.net/npm/mirador@4.0.0-alpha.2/dist/mirador.min.js"></script>
+    </head>
+
+    <body>
+        <div class="container">
+            <div id="mdv" class="viewer"></div>
+        </div>
+        <script>
+            /* -----# enable BS Tooltips ---------------------------*/
+            const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+            const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
+            /* ----# Mirador ---------------------------------------*/
+            const mdv = Mirador.viewer({
+                id: 'mdv',
+                    windows: [{
+                        manifestId: 'https://manuscripta.at/diglit/iiif/AT1000-128/manifest.json', //abs-128
+                        view: 'single'
+                    },{
+                        manifestId: 'https://dms-data.stanford.edu/data/manifests/Parker/xj710dc7305/manifest.json', //ccc-29
+                        view: 'single'
+                    }]
+            });
+        </script>
+    </body>
+
+</html>
