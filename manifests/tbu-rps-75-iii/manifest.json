@@ -14,9 +14,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas1",
     "type": "Canvas",
-    "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_183.TIF"]},
-    "height": 6360,
-    "width": 4881,
+    "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_182.TIF"]},
+    "height": 6173,
+    "width": 4811,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas1/annoPage",
@@ -28,6 +28,37 @@
             "type": "Annotation",
             "motivation": "painting",
             "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas1/annoPage",
+            "body": {
+                "id": "https://kpbc.umk.pl/iiif/image/252728-3505297/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://kpbc.umk.pl/iiif/image/252728-3505297",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas2",
+    "type": "Canvas",
+    "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_183.TIF"]},
+    "height": 6360,
+    "width": 4881,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas2/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505236/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -43,22 +74,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas2",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas3",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_184.TIF"]},
     "height": 6195,
     "width": 4937,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas2/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas3/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas2/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas3/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas2/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas3/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505444/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -74,22 +105,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas3",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas4",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_185.TIF"]},
     "height": 6164,
     "width": 4772,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas3/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas4/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas3/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas4/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas3/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas4/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505388/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -105,22 +136,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas4",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas5",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_186.TIF"]},
     "height": 6263,
     "width": 4880,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas4/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas5/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas4/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas5/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas4/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas5/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505553/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -136,22 +167,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas5",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas6",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_187.TIF"]},
     "height": 6255,
     "width": 4682,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas5/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas6/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas5/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas6/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas5/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas6/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505486/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -167,22 +198,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas6",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas7",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_188.TIF"]},
     "height": 6252,
     "width": 4841,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas6/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas7/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas6/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas7/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas6/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas7/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505151/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -198,22 +229,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas7",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas8",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_189.TIF"]},
     "height": 5982,
     "width": 4650,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas7/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas8/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas7/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas8/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas7/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas8/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505213/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -229,22 +260,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas8",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas9",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_190.TIF"]},
     "height": 6179,
     "width": 4882,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas8/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas9/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas8/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas9/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas8/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas9/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505186/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -260,22 +291,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas9",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas10",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_191.TIF"]},
     "height": 6203,
     "width": 4910,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas9/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas10/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas9/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas10/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas9/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas10/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505454/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -291,22 +322,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas10",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas11",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_192.TIF"]},
     "height": 6167,
     "width": 4782,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas10/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas11/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas10/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas11/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas10/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas11/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505540/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -322,22 +353,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas11",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas12",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_193.TIF"]},
     "height": 6228,
     "width": 4977,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas11/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas12/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas11/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas12/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas11/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas12/annoPage",
             "body": {
                 "id": "https://kpbc.umk.pl/iiif/image/252728-3505360/full/1000,/0/default.jpg",
                 "type": "Image",
@@ -353,42 +384,11 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas12",
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas13",
     "type": "Canvas",
     "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_194.TIF"]},
     "height": 6192,
     "width": 4808,
-    "items": [
-        {
-        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas12/annoPage",
-        "type": "AnnotationPage",
-        "items": 
-          [
-            {
-            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas12/annoPage/anno",
-            "type": "Annotation",
-            "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas12/annoPage",
-            "body": {
-                "id": "https://kpbc.umk.pl/iiif/image/252728-3505495/full/1000,/0/default.jpg",
-                "type": "Image",
-                "service": [{
-                  "id": "https://kpbc.umk.pl/iiif/image/252728-3505495",
-                  "profile": "http://iiif.io/api/image/2/level1.json",
-                  "type": "ImageService2"
-                }]
-              }
-            }
-          ]
-        }
-      ]
-    }, 
-    {
-    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas13",
-    "type": "Canvas",
-    "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_195.TIF"]},
-    "height": 6094,
-    "width": 4912,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas13/annoPage",
@@ -401,10 +401,10 @@
             "motivation": "painting",
             "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas13/annoPage",
             "body": {
-                "id": "https://kpbc.umk.pl/iiif/image/252728-3505217/full/1000,/0/default.jpg",
+                "id": "https://kpbc.umk.pl/iiif/image/252728-3505495/full/1000,/0/default.jpg",
                 "type": "Image",
                 "service": [{
-                  "id": "https://kpbc.umk.pl/iiif/image/252728-3505217",
+                  "id": "https://kpbc.umk.pl/iiif/image/252728-3505495",
                   "profile": "http://iiif.io/api/image/2/level1.json",
                   "type": "ImageService2"
                 }]

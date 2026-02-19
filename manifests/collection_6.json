@@ -37,6 +37,13 @@
             "label": {
                 "none":["Leipzig, Universitätsbibliothek, Ms. Apel 1 (Le1)"]
             }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Paris, Bibliothèque nationale de France, Lat. 16020 (P14)"]
+            }
         }
     ]
 }

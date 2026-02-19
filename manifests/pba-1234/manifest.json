@@ -1,0 +1,15 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/pba-1234/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Paris, Bibliothèque de l'Arsenal, Ms. 1234 (P13)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Paris, Bibliothèque de l'Arsenal, Ms. 1234. Foto: Gallica. CC BY 4.0" ] }
+  },
+  "items" : [    
+  ]
+}

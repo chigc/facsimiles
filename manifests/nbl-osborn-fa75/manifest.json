@@ -14,9 +14,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas1",
     "type": "Canvas",
-    "label": {"none":["3v"]},
-    "height": 7436,
-    "width": 5561,
+    "label": {"none":["3r"]},
+    "height": 7128,
+    "width": 5241,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas1/annoPage",
@@ -32,7 +32,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100951",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100950",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -45,9 +45,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas2",
     "type": "Canvas",
-    "label": {"none":["4r"]},
-    "height": 7156,
-    "width": 5226,
+    "label": {"none":["3v"]},
+    "height": 7436,
+    "width": 5561,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas2/annoPage",
@@ -63,7 +63,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100952",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100951",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -76,9 +76,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas3",
     "type": "Canvas",
-    "label": {"none":["4v"]},
-    "height": 7442,
-    "width": 5557,
+    "label": {"none":["4r"]},
+    "height": 7156,
+    "width": 5226,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas3/annoPage",
@@ -94,7 +94,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100953",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100952",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -107,9 +107,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas4",
     "type": "Canvas",
-    "label": {"none":["5r"]},
-    "height": 7194,
-    "width": 5301,
+    "label": {"none":["4v"]},
+    "height": 7442,
+    "width": 5557,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas4/annoPage",
@@ -125,7 +125,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100954",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100953",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -138,9 +138,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas5",
     "type": "Canvas",
-    "label": {"none":["5v"]},
-    "height": 7427,
-    "width": 5622,
+    "label": {"none":["5r"]},
+    "height": 7194,
+    "width": 5301,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas5/annoPage",
@@ -156,7 +156,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100955",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100954",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -169,9 +169,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas6",
     "type": "Canvas",
-    "label": {"none":["6r"]},
-    "height": 7194,
-    "width": 5301,
+    "label": {"none":["5v"]},
+    "height": 7427,
+    "width": 5622,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas6/annoPage",
@@ -187,7 +187,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100956",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100955",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -200,9 +200,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas7",
     "type": "Canvas",
-    "label": {"none":["6v"]},
-    "height": 7427,
-    "width": 5573,
+    "label": {"none":["6r"]},
+    "height": 7194,
+    "width": 5301,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas7/annoPage",
@@ -218,7 +218,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100957",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100956",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -231,9 +231,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas8",
     "type": "Canvas",
-    "label": {"none":["7r"]},
-    "height": 7194,
-    "width": 5301,
+    "label": {"none":["6v"]},
+    "height": 7427,
+    "width": 5573,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas8/annoPage",
@@ -249,7 +249,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100958",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100957",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -262,9 +262,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas9",
     "type": "Canvas",
-    "label": {"none":["7v"]},
-    "height": 7427,
-    "width": 5563,
+    "label": {"none":["7r"]},
+    "height": 7194,
+    "width": 5301,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas9/annoPage",
@@ -280,7 +280,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100959",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100958",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -293,9 +293,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas10",
     "type": "Canvas",
-    "label": {"none":["8r"]},
-    "height": 7194,
-    "width": 5301,
+    "label": {"none":["7v"]},
+    "height": 7427,
+    "width": 5563,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/canvas10/annoPage",
@@ -311,7 +311,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/33100960",
+                  "id": "https://collections.library.yale.edu/iiif/2/33100959",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]

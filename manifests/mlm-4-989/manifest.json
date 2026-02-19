@@ -14,9 +14,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas1",
     "type": "Canvas",
-    "label": {"none":["[4] - [ - ]"]},
-    "height": 8709,
-    "width": 4409,
+    "label": {"none":["[3] - [ - ]"]},
+    "height": 8228,
+    "width": 4458,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas1/annoPage",
@@ -45,9 +45,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas2",
     "type": "Canvas",
-    "label": {"none":["[5] - [ - ]"]},
-    "height": 9445,
-    "width": 4488,
+    "label": {"none":["[4] - [ - ]"]},
+    "height": 8709,
+    "width": 4409,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas2/annoPage",
@@ -76,9 +76,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas3",
     "type": "Canvas",
-    "label": {"none":["[6] - [ - ]"]},
-    "height": 9385,
-    "width": 4487,
+    "label": {"none":["[5] - [ - ]"]},
+    "height": 9445,
+    "width": 4488,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas3/annoPage",
@@ -107,9 +107,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas4",
     "type": "Canvas",
-    "label": {"none":["[7] - [ - ]"]},
-    "height": 10090,
-    "width": 4488,
+    "label": {"none":["[6] - [ - ]"]},
+    "height": 9385,
+    "width": 4487,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas4/annoPage",
@@ -138,9 +138,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas5",
     "type": "Canvas",
-    "label": {"none":["[8] - [ - ]"]},
-    "height": 9559,
-    "width": 4487,
+    "label": {"none":["[7] - [ - ]"]},
+    "height": 10090,
+    "width": 4488,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas5/annoPage",
@@ -169,9 +169,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas6",
     "type": "Canvas",
-    "label": {"none":["[9] - [ - ]"]},
-    "height": 7960,
-    "width": 4488,
+    "label": {"none":["[8] - [ - ]"]},
+    "height": 9559,
+    "width": 4487,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas6/annoPage",
@@ -200,9 +200,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas7",
     "type": "Canvas",
-    "label": {"none":["[10] - [ - ]"]},
-    "height": 8582,
-    "width": 4409,
+    "label": {"none":["[9] - [ - ]"]},
+    "height": 7960,
+    "width": 4488,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas7/annoPage",

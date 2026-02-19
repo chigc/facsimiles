@@ -14,7 +14,7 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas1",
     "type": "Canvas",
-    "label": {"none":["[4]v"]},
+    "label": {"none":["[4]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
@@ -28,6 +28,37 @@
             "type": "Annotation",
             "motivation": "painting",
             "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas1/annoPage",
+            "body": {
+                "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000011.tif/full/!400,400/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000011.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas2",
+    "type": "Canvas",
+    "label": {"none":["[4]v"]},
+    "height": 5423,
+    "width": 3856,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas2/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000012.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -43,22 +74,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas2",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas3",
     "type": "Canvas",
     "label": {"none":["[5]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas2/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas3/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas2/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas3/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas2/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas3/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000013.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -74,22 +105,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas3",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas4",
     "type": "Canvas",
     "label": {"none":["[5]v"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas3/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas4/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas3/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas4/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas3/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas4/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000014.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -105,22 +136,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas4",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas5",
     "type": "Canvas",
     "label": {"none":["[6]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas4/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas5/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas4/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas5/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas4/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas5/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000015.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -136,22 +167,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas5",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas6",
     "type": "Canvas",
     "label": {"none":["[6]v"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas5/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas6/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas5/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas6/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas5/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas6/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000016.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -167,22 +198,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas6",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas7",
     "type": "Canvas",
     "label": {"none":["[7]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas6/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas7/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas6/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas7/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas6/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas7/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000017.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -198,22 +229,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas7",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas8",
     "type": "Canvas",
     "label": {"none":["[7]v"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas7/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas8/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas7/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas8/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas7/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas8/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000018.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -229,22 +260,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas8",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas9",
     "type": "Canvas",
     "label": {"none":["[8]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas8/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas9/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas8/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas9/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas8/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas9/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000019.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -260,22 +291,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas9",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas10",
     "type": "Canvas",
     "label": {"none":["[8]v"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas9/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas10/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas9/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas10/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas9/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas10/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000020.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -291,22 +322,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas10",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas11",
     "type": "Canvas",
     "label": {"none":["[9]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas10/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas11/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas10/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas11/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas10/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas11/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000021.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -322,22 +353,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas11",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas12",
     "type": "Canvas",
     "label": {"none":["[9]v"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas11/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas12/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas11/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas12/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas11/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas12/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000022.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -353,22 +384,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas12",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas13",
     "type": "Canvas",
     "label": {"none":["[10]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas12/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas13/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas12/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas13/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas12/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas13/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000023.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -384,22 +415,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas13",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas14",
     "type": "Canvas",
     "label": {"none":["[10]v"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas13/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas14/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas13/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas14/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas13/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas14/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000024.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -415,22 +446,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas14",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas15",
     "type": "Canvas",
     "label": {"none":["[11]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas14/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas15/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas14/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas15/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas14/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas15/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000025.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -446,22 +477,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas15",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas16",
     "type": "Canvas",
     "label": {"none":["[11]v"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas15/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas16/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas15/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas16/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas15/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas16/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000026.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -477,22 +508,22 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas16",
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas17",
     "type": "Canvas",
     "label": {"none":["[12]r"]},
     "height": 5423,
     "width": 3856,
     "items": [
         {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas16/annoPage",
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas17/annoPage",
         "type": "AnnotationPage",
         "items": 
           [
             {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas16/annoPage/anno",
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas17/annoPage/anno",
             "type": "Annotation",
             "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas16/annoPage",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas17/annoPage",
             "body": {
                 "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000027.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
@@ -508,40 +539,9 @@
       ]
     }, 
     {
-    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas17",
-    "type": "Canvas",
-    "label": {"none":["[12]v"]},
-    "height": 5423,
-    "width": 3856,
-    "items": [
-        {
-        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas17/annoPage",
-        "type": "AnnotationPage",
-        "items": 
-          [
-            {
-            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas17/annoPage/anno",
-            "type": "Annotation",
-            "motivation": "painting",
-            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas17/annoPage",
-            "body": {
-                "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000028.tif/full/!400,400/0/default.jpg",
-                "type": "Image",
-                "service": [{
-                  "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000028.tif",
-                  "profile": "http://iiif.io/api/image/2/level2.json",
-                  "type": "ImageService2"
-                }]
-              }
-            }
-          ]
-        }
-      ]
-    }, 
-    {
     "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas18",
     "type": "Canvas",
-    "label": {"none":["[13]r"]},
+    "label": {"none":["[12]v"]},
     "height": 5423,
     "width": 3856,
     "items": [
@@ -556,10 +556,10 @@
             "motivation": "painting",
             "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas18/annoPage",
             "body": {
-                "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000029.tif/full/!400,400/0/default.jpg",
+                "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000028.tif/full/!400,400/0/default.jpg",
                 "type": "Image",
                 "service": [{
-                  "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000029.tif",
+                  "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000028.tif",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService2"
                 }]

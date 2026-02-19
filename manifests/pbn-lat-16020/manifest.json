@@ -1,0 +1,418 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Paris, Bibliothèque nationale de France, Lat. 16020 (P14)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Paris, Bibliothèque nationale de France, Lat. 16020. Image rights remain with the library." ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas1",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas1/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f8/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f8",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas2",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6934,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas2/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f9/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f9",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas3",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4970,
+    "width": 6934,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas3/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f10/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f10",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas4",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6902,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas4/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f11/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f11",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas5",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas5/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f12/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f12",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas6",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas6/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f13/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f13",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas7",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4970,
+    "width": 6918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas7/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f14/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f14",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas8",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4970,
+    "width": 6902,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas8/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f15/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f15",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas9",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6902,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas9/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f16/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f16",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas10",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas10/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f17/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f17",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas11",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6902,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas11/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f18/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f18",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas12",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6902,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas12/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f19/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f19",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas13",
+    "type": "Canvas",
+    "label": {"none":["NP"]},
+    "height": 4954,
+    "width": 6902,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pbn-lat-16020/canvas13/annoPage",
+            "body": {
+                "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f20/full/full/0/native.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038981h/f20",
+                  "profile": "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

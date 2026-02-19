@@ -95,13 +95,6 @@
             }
         },                   
         {
-            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none":["Admont, Benediktinerstift, Cod. 583 (Ad1)"]
-            }
-        },                   
-        {
             "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/manifest.json",
             "type": "Manifest",
             "label": {
@@ -235,10 +228,31 @@
             }
         },                   
         {
+            "id": "https://chigc.github.io/facsimiles/manifests/pba-1234/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Paris, Bibliothèque de l'Arsenal, Ms. 1234 (P13)"]
+            }
+        },                   
+        {
             "id": "https://chigc.github.io/facsimiles/manifests/iut-9/manifest.json",
             "type": "Manifest",
             "label": {
                 "none":["Innsbruck, Universitäts- und Landesbibliothek Tirol, Cod. 9 (I)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-nal-836/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Paris, Bibliothèque nationale de France, NAL 836 (P7)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-10431/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Paris, Bibliothèque nationale de France, Lat. 10431 (P5)"]
             }
         }
     ]

@@ -14,9 +14,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas1",
     "type": "Canvas",
-    "label": {"none":["11"]},
-    "height": 2075,
-    "width": 1465,
+    "label": {"none":["10"]},
+    "height": 2056,
+    "width": 1437,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas1/annoPage",
@@ -45,9 +45,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas2",
     "type": "Canvas",
-    "label": {"none":["12"]},
-    "height": 2056,
-    "width": 1437,
+    "label": {"none":["11"]},
+    "height": 2075,
+    "width": 1465,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas2/annoPage",
@@ -76,9 +76,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas3",
     "type": "Canvas",
-    "label": {"none":["13"]},
-    "height": 2075,
-    "width": 1465,
+    "label": {"none":["12"]},
+    "height": 2056,
+    "width": 1437,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas3/annoPage",
@@ -107,9 +107,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas4",
     "type": "Canvas",
-    "label": {"none":["14"]},
-    "height": 2056,
-    "width": 1437,
+    "label": {"none":["13"]},
+    "height": 2075,
+    "width": 1465,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas4/annoPage",
@@ -138,9 +138,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas5",
     "type": "Canvas",
-    "label": {"none":["15"]},
-    "height": 2075,
-    "width": 1465,
+    "label": {"none":["14"]},
+    "height": 2056,
+    "width": 1437,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas5/annoPage",
@@ -169,9 +169,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas6",
     "type": "Canvas",
-    "label": {"none":["16"]},
-    "height": 2096,
-    "width": 1437,
+    "label": {"none":["15"]},
+    "height": 2075,
+    "width": 1465,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas6/annoPage",
@@ -200,9 +200,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas7",
     "type": "Canvas",
-    "label": {"none":["17"]},
-    "height": 2075,
-    "width": 1465,
+    "label": {"none":["16"]},
+    "height": 2096,
+    "width": 1437,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas7/annoPage",
@@ -231,9 +231,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas8",
     "type": "Canvas",
-    "label": {"none":["18"]},
-    "height": 2096,
-    "width": 1437,
+    "label": {"none":["17"]},
+    "height": 2075,
+    "width": 1465,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas8/annoPage",
@@ -262,9 +262,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas9",
     "type": "Canvas",
-    "label": {"none":["19"]},
-    "height": 2075,
-    "width": 1465,
+    "label": {"none":["18"]},
+    "height": 2096,
+    "width": 1437,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas9/annoPage",
@@ -293,9 +293,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas10",
     "type": "Canvas",
-    "label": {"none":["20"]},
-    "height": 2073,
-    "width": 1437,
+    "label": {"none":["19"]},
+    "height": 2075,
+    "width": 1465,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas10/annoPage",
@@ -324,9 +324,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas11",
     "type": "Canvas",
-    "label": {"none":["21"]},
-    "height": 2075,
-    "width": 1465,
+    "label": {"none":["20"]},
+    "height": 2073,
+    "width": 1437,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas11/annoPage",
@@ -355,9 +355,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas12",
     "type": "Canvas",
-    "label": {"none":["22"]},
-    "height": 2073,
-    "width": 1437,
+    "label": {"none":["21"]},
+    "height": 2075,
+    "width": 1465,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas12/annoPage",
@@ -386,9 +386,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas13",
     "type": "Canvas",
-    "label": {"none":["23"]},
-    "height": 2075,
-    "width": 1465,
+    "label": {"none":["22"]},
+    "height": 2073,
+    "width": 1437,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas13/annoPage",
@@ -417,9 +417,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas14",
     "type": "Canvas",
-    "label": {"none":["24"]},
-    "height": 2073,
-    "width": 1472,
+    "label": {"none":["23"]},
+    "height": 2075,
+    "width": 1465,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas14/annoPage",
@@ -448,9 +448,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas15",
     "type": "Canvas",
-    "label": {"none":["25"]},
-    "height": 2075,
-    "width": 1465,
+    "label": {"none":["24"]},
+    "height": 2073,
+    "width": 1472,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas15/annoPage",
@@ -479,9 +479,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas16",
     "type": "Canvas",
-    "label": {"none":["26"]},
-    "height": 2068,
-    "width": 1412,
+    "label": {"none":["25"]},
+    "height": 2075,
+    "width": 1465,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas16/annoPage",
@@ -510,9 +510,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas17",
     "type": "Canvas",
-    "label": {"none":["27"]},
-    "height": 2075,
-    "width": 1461,
+    "label": {"none":["26"]},
+    "height": 2068,
+    "width": 1412,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas17/annoPage",
@@ -541,9 +541,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas18",
     "type": "Canvas",
-    "label": {"none":["28"]},
-    "height": 2068,
-    "width": 1412,
+    "label": {"none":["27"]},
+    "height": 2075,
+    "width": 1461,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas18/annoPage",
@@ -572,9 +572,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas19",
     "type": "Canvas",
-    "label": {"none":["29"]},
-    "height": 2075,
-    "width": 1461,
+    "label": {"none":["28"]},
+    "height": 2068,
+    "width": 1412,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/won-364/canvas19/annoPage",

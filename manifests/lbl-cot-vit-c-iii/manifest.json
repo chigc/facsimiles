@@ -14,9 +14,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas1",
     "type": "Canvas",
-    "label": {"none":["f.5v"]},
-    "height": 7425,
-    "width": 6191,
+    "label": {"none":["f.5r"]},
+    "height": 7352,
+    "width": 5532,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas1/annoPage",
@@ -32,7 +32,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000013",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000012",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -45,9 +45,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas2",
     "type": "Canvas",
-    "label": {"none":["f.6r"]},
-    "height": 7352,
-    "width": 5532,
+    "label": {"none":["f.5v"]},
+    "height": 7425,
+    "width": 6191,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas2/annoPage",
@@ -63,7 +63,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000014",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000013",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -76,9 +76,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas3",
     "type": "Canvas",
-    "label": {"none":["f.6v"]},
-    "height": 7480,
-    "width": 6238,
+    "label": {"none":["f.6r"]},
+    "height": 7352,
+    "width": 5532,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas3/annoPage",
@@ -94,7 +94,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000015",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000014",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -107,9 +107,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas4",
     "type": "Canvas",
-    "label": {"none":["f.7r"]},
-    "height": 7352,
-    "width": 5532,
+    "label": {"none":["f.6v"]},
+    "height": 7480,
+    "width": 6238,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas4/annoPage",
@@ -125,7 +125,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000016",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000015",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -138,9 +138,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas5",
     "type": "Canvas",
-    "label": {"none":["f.7v"]},
-    "height": 7480,
-    "width": 6238,
+    "label": {"none":["f.7r"]},
+    "height": 7352,
+    "width": 5532,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas5/annoPage",
@@ -156,7 +156,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000017",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000016",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -169,9 +169,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas6",
     "type": "Canvas",
-    "label": {"none":["f.8r"]},
-    "height": 7352,
-    "width": 5532,
+    "label": {"none":["f.7v"]},
+    "height": 7480,
+    "width": 6238,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas6/annoPage",
@@ -187,7 +187,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000018",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000017",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -200,9 +200,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas7",
     "type": "Canvas",
-    "label": {"none":["f.8v"]},
-    "height": 7480,
-    "width": 6238,
+    "label": {"none":["f.8r"]},
+    "height": 7352,
+    "width": 5532,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas7/annoPage",
@@ -218,7 +218,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000019",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000018",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -231,9 +231,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas8",
     "type": "Canvas",
-    "label": {"none":["f.9r"]},
-    "height": 7327,
-    "width": 5532,
+    "label": {"none":["f.8v"]},
+    "height": 7480,
+    "width": 6238,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas8/annoPage",
@@ -249,7 +249,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x00001a",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x000019",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -262,9 +262,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas9",
     "type": "Canvas",
-    "label": {"none":["f.9v"]},
-    "height": 7480,
-    "width": 6238,
+    "label": {"none":["f.9r"]},
+    "height": 7327,
+    "width": 5532,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas9/annoPage",
@@ -280,7 +280,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x00001b",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x00001a",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -293,9 +293,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas10",
     "type": "Canvas",
-    "label": {"none":["f.10r"]},
-    "height": 7327,
-    "width": 5532,
+    "label": {"none":["f.9v"]},
+    "height": 7480,
+    "width": 6238,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas10/annoPage",
@@ -311,7 +311,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x00001c",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x00001b",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -324,9 +324,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas11",
     "type": "Canvas",
-    "label": {"none":["f.10v"]},
-    "height": 7462,
-    "width": 6262,
+    "label": {"none":["f.10r"]},
+    "height": 7327,
+    "width": 5532,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas11/annoPage",
@@ -342,7 +342,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x00001d",
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x00001c",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]

@@ -14,9 +14,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas1",
     "type": "Canvas",
-    "label": {"none":[""]},
-    "height": 10083,
-    "width": 5883,
+    "label": {"none":["[roll]"]},
+    "height": 58685,
+    "width": 5983,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas1/annoPage",
@@ -32,7 +32,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/15761346",
+                  "id": "https://collections.library.yale.edu/iiif/2/15761345",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -46,8 +46,8 @@
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas2",
     "type": "Canvas",
     "label": {"none":[""]},
-    "height": 10234,
-    "width": 5863,
+    "height": 10083,
+    "width": 5883,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas2/annoPage",
@@ -63,7 +63,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/15831059",
+                  "id": "https://collections.library.yale.edu/iiif/2/15761346",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -78,7 +78,7 @@
     "type": "Canvas",
     "label": {"none":[""]},
     "height": 10234,
-    "width": 5865,
+    "width": 5863,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas3/annoPage",
@@ -94,7 +94,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/15831060",
+                  "id": "https://collections.library.yale.edu/iiif/2/15831059",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -109,7 +109,7 @@
     "type": "Canvas",
     "label": {"none":[""]},
     "height": 10234,
-    "width": 5956,
+    "width": 5865,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas4/annoPage",
@@ -125,7 +125,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/15831061",
+                  "id": "https://collections.library.yale.edu/iiif/2/15831060",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -140,7 +140,7 @@
     "type": "Canvas",
     "label": {"none":[""]},
     "height": 10234,
-    "width": 5890,
+    "width": 5956,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas5/annoPage",
@@ -156,7 +156,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/15831062",
+                  "id": "https://collections.library.yale.edu/iiif/2/15831061",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -171,7 +171,7 @@
     "type": "Canvas",
     "label": {"none":[""]},
     "height": 10234,
-    "width": 5862,
+    "width": 5890,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas6/annoPage",
@@ -187,7 +187,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/15831063",
+                  "id": "https://collections.library.yale.edu/iiif/2/15831062",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]
@@ -201,8 +201,8 @@
     "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas7",
     "type": "Canvas",
     "label": {"none":[""]},
-    "height": 9870,
-    "width": 5917,
+    "height": 10234,
+    "width": 5862,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/canvas7/annoPage",
@@ -218,7 +218,7 @@
                 "id": "",
                 "type": "Image",
                 "service": [{
-                  "id": "https://collections.library.yale.edu/iiif/2/15831064",
+                  "id": "https://collections.library.yale.edu/iiif/2/15831063",
                   "profile": "http://iiif.io/api/image/2/level2.json",
                   "type": "ImageService3"
                 }]

@@ -14,9 +14,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas1",
     "type": "Canvas",
-    "label": {"none":["294"]},
-    "height": 3599,
-    "width": 2400,
+    "label": {"none":["293"]},
+    "height": 3621,
+    "width": 2374,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas1/annoPage",
@@ -45,9 +45,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas2",
     "type": "Canvas",
-    "label": {"none":["295"]},
-    "height": 3620,
-    "width": 2361,
+    "label": {"none":["294"]},
+    "height": 3599,
+    "width": 2400,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas2/annoPage",
@@ -76,9 +76,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas3",
     "type": "Canvas",
-    "label": {"none":["296"]},
-    "height": 3600,
-    "width": 2399,
+    "label": {"none":["295"]},
+    "height": 3620,
+    "width": 2361,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas3/annoPage",
@@ -107,9 +107,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas4",
     "type": "Canvas",
-    "label": {"none":["297"]},
-    "height": 3614,
-    "width": 2346,
+    "label": {"none":["296"]},
+    "height": 3600,
+    "width": 2399,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas4/annoPage",
@@ -138,9 +138,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas5",
     "type": "Canvas",
-    "label": {"none":["298"]},
-    "height": 3606,
-    "width": 2407,
+    "label": {"none":["297"]},
+    "height": 3614,
+    "width": 2346,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas5/annoPage",
@@ -169,9 +169,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas6",
     "type": "Canvas",
-    "label": {"none":["299"]},
-    "height": 3614,
-    "width": 2349,
+    "label": {"none":["298"]},
+    "height": 3606,
+    "width": 2407,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas6/annoPage",
@@ -200,9 +200,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas7",
     "type": "Canvas",
-    "label": {"none":["300"]},
-    "height": 3602,
-    "width": 2412,
+    "label": {"none":["299"]},
+    "height": 3614,
+    "width": 2349,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas7/annoPage",
@@ -231,9 +231,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas8",
     "type": "Canvas",
-    "label": {"none":["301"]},
-    "height": 3620,
-    "width": 2431,
+    "label": {"none":["300"]},
+    "height": 3602,
+    "width": 2412,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas8/annoPage",
@@ -262,9 +262,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas9",
     "type": "Canvas",
-    "label": {"none":["302"]},
-    "height": 3593,
-    "width": 2399,
+    "label": {"none":["301"]},
+    "height": 3620,
+    "width": 2431,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas9/annoPage",
@@ -293,9 +293,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas10",
     "type": "Canvas",
-    "label": {"none":["303"]},
-    "height": 3605,
-    "width": 2428,
+    "label": {"none":["302"]},
+    "height": 3593,
+    "width": 2399,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas10/annoPage",
@@ -324,9 +324,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas11",
     "type": "Canvas",
-    "label": {"none":["304"]},
-    "height": 3600,
-    "width": 2421,
+    "label": {"none":["303"]},
+    "height": 3605,
+    "width": 2428,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas11/annoPage",
@@ -355,9 +355,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas12",
     "type": "Canvas",
-    "label": {"none":["305"]},
-    "height": 3594,
-    "width": 2400,
+    "label": {"none":["304"]},
+    "height": 3600,
+    "width": 2421,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas12/annoPage",
@@ -386,9 +386,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas13",
     "type": "Canvas",
-    "label": {"none":["306"]},
-    "height": 3595,
-    "width": 2431,
+    "label": {"none":["305"]},
+    "height": 3594,
+    "width": 2400,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas13/annoPage",
@@ -417,9 +417,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas14",
     "type": "Canvas",
-    "label": {"none":["307"]},
-    "height": 3591,
-    "width": 2398,
+    "label": {"none":["306"]},
+    "height": 3595,
+    "width": 2431,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas14/annoPage",
@@ -448,9 +448,9 @@
     {
     "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas15",
     "type": "Canvas",
-    "label": {"none":["308"]},
-    "height": 3598,
-    "width": 2432,
+    "label": {"none":["307"]},
+    "height": 3591,
+    "width": 2398,
     "items": [
         {
         "id": "https://chigc.github.io/facsimiles/manifests/uun-261/canvas15/annoPage",
