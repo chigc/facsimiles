@@ -5,22 +5,12 @@
     "label": {
         "none": ["Graph Version 6 (Horizontal Structure): Manuscript images available via IIIF in other institutions"]
     },
-    "metadata": [
-        {
-            "label": {
-                "none": ["online at"]
-            },
-            "value": {
-                "none":["<a href='https://gams.uni-graz.at/context:chigc'>https://gams.uni-graz.at/context:chigc</a>"]
-            }
-        }
-    ],
     "provider": [
         {
-            "id": "https://informationsmodellierung.uni-graz.at/en/",
+            "id": "https://digital-humanities.uni-graz.at/en/",
             "type": "Agent",
             "label": {
-                "none": ["Centre for Information Modelling"]
+                "none": ["Department of Digital Humanities"]
             },
             "logo": [
                 {
@@ -40,13 +30,6 @@
             "none": ["<i>'Peter of Poitiers's Compendium Historiae: a digital edition'</i>, online at: <a href='https://gams.uni-graz.at/context:chigc'>https://gams.uni-graz.at/context:chigc</a>"]
         }
     },
-    "thumbnail": [
-        {
-            "id": "https://chigc.github.io/facsimiles/img/chigc_logo.png",
-            "type": "Image",
-            "format": "image/png"
-        }
-    ],
     "items": [                  
         {
             "id": "https://chigc.github.io/facsimiles/manifests/lub-apel-1/manifest.json",
