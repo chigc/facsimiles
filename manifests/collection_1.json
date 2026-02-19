@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/collection_1.json",
+    "id": "https://chigc.github.io/facsimiles/manifests/collection_1.json",
     "type": "Collection",
     "label": {
         "none": ["Graph Version 1 (Standard Structure): Manuscript images available via IIIF in other institutions"]
@@ -11,7 +11,7 @@
                 "none": ["online at"]
             },
             "value": {
-                "none":["<a href='https://gams-staging.uni-graz.at/context:chigc'>https://gams-staging.uni-graz.at/context:chigc</a>"]
+                "none":["<a href='https://gams.uni-graz.at/context:chigc'>https://gams.uni-graz.at/context:chigc</a>"]
             }
         }
     ],
@@ -24,7 +24,7 @@
             },
             "logo": [
                 {
-                    "id": "https://gams-staging.uni-graz.at/assets/img/ZIM_schwarz.png",
+                    "id": "https://gams.uni-graz.at/assets/img/ZIM_schwarz.png",
                     "type": "Image",
                     "format": "image/png"
                 }
@@ -37,33 +37,33 @@
             "none": ["Recommended citation"]
         },
         "value": {
-            "none": ["<i>'Peter of Poitiers's Compendium Historiae: a digital edition'</i>, online at: <a href='https://gams-staging.uni-graz.at/context:chigc'>https://gams-staging.uni-graz.at/context:chigc</a>"]
+            "none": ["<i>'Peter of Poitiers's Compendium Historiae: a digital edition'</i>, online at: <a href='https://gams.uni-graz.at/context:chigc'>https://gams.uni-graz.at/context:chigc</a>"]
         }
     },
     "thumbnail": [
         {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/img/chigc_logo.png",
+            "id": "https://chigc.github.io/facsimiles/img/chigc_logo.png",
             "type": "Image",
             "format": "image/png"
         }
     ],
     "items": [                  
         {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/cul-dd-8-12/manifest.json",
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/manifest.json",
             "type": "Manifest",
             "label": {
                 "none":["Cambridge, University Library, MS Dd. 8.12 (C15)"]
             }
         },                   
         {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/dcl-b-ii-33/manifest.json",
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/manifest.json",
             "type": "Manifest",
             "label": {
                 "none":["Durham, Cathedral Library, MS B.II.33 (Du)"]
             }
         },                   
         {
-            "id": "https://gams-staging.uni-graz.at/gamsdev/sonnberger/chigc/manifests/lzs-227/manifest.json",
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/manifest.json",
             "type": "Manifest",
             "label": {
                 "none":["Lilienfeld, Zisterzienserstift, Cod. 227 (Lf)"]
