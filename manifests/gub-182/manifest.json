@@ -661,6 +661,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas22",
+    "type": "Canvas",
+    "label": {"none":["287r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas22/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas22/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas22/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164922",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164922",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

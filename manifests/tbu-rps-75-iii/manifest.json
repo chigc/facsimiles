@@ -413,6 +413,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas14",
+    "type": "Canvas",
+    "label": {"none":["/Galeria/Rekopisy_POPC_005_024_01_195.TIF"]},
+    "height": 6094,
+    "width": 4912,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/canvas14/annoPage",
+            "body": {
+                "id": "https://kpbc.umk.pl/iiif/image/252728-3505217/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://kpbc.umk.pl/iiif/image/252728-3505217",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

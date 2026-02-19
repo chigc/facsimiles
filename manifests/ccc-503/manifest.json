@@ -847,6 +847,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-503/canvas28",
+    "type": "Canvas",
+    "label": {"none":["Page 273"]},
+    "height": 7228,
+    "width": 5428,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-503/canvas28/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-503/canvas28/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-503/canvas28/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/zn618sb4538%2F503_069_R_NC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/zn618sb4538%2F503_069_R_NC_46",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

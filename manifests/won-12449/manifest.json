@@ -630,6 +630,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-12449/canvas21",
+    "type": "Canvas",
+    "label": {"none":["56"]},
+    "height": 7845,
+    "width": 5544,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-12449/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-12449/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-12449/canvas21/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

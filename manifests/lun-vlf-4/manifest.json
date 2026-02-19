@@ -227,6 +227,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas8",
+    "type": "Canvas",
+    "label": {"none":["f037v"]},
+    "height": 5099,
+    "width": 3940,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas8/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237735/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237735",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

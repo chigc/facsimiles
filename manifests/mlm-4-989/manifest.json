@@ -227,6 +227,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas8",
+    "type": "Canvas",
+    "label": {"none":["[10] - [ - ]"]},
+    "height": 8582,
+    "width": 4409,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mlm-4-989/canvas8/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level1",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

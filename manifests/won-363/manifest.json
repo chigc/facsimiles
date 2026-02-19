@@ -320,6 +320,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-363/canvas11",
+    "type": "Canvas",
+    "label": {"none":["11"]},
+    "height": 2105,
+    "width": 1628,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-363/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-363/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-363/canvas11/annoPage",
+            "body": {
+                "id": "https://gams-staging.uni-graz.at/o:chigc.won-363/g-won-363-6v",
+                "type": "Image",
+                "service": [{
+                  "id": "https://gams-staging.uni-graz.at/iiif/o:chigc.won-363%2Fg-won-363-6v",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

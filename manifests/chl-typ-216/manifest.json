@@ -351,6 +351,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas12",
+    "type": "Canvas",
+    "label": {"none":["[ entire scroll, verso ] (seq. 12)"]},
+    "height": 21998,
+    "width": 2777,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas12/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143036/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143036",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

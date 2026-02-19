@@ -3079,6 +3079,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas100",
+    "type": "Canvas",
+    "label": {"none":["48v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas100/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas100/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas100/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000102.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000102.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

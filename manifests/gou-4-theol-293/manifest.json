@@ -1436,6 +1436,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gou-4-theol-293/canvas47",
+    "type": "Canvas",
+    "label": {"none":["92v"]},
+    "height": 400,
+    "width": 300,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gou-4-theol-293/canvas47/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gou-4-theol-293/canvas47/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gou-4-theol-293/canvas47/annoPage",
+            "body": {
+                "id": "https://manifests.sub.uni-goettingen.de/iiif/image/gdz:DE-611-HS-3795774:00000200",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.sub.uni-goettingen.de/iiif/image/gdz:DE-611-HS-3795774:00000200",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

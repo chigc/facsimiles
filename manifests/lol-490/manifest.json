@@ -568,6 +568,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas19",
+    "type": "Canvas",
+    "label": {"none":["[13]r"]},
+    "height": 5423,
+    "width": 3856,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lol-490/canvas19/annoPage",
+            "body": {
+                "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000029.tif/full/!400,400/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.landesbibliothek.at/viewer/api/v1/records/490/files/images/00000029.tif",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

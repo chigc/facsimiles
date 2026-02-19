@@ -289,6 +289,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/sdb-f-20/canvas10",
+    "type": "Canvas",
+    "label": {"none":["16"]},
+    "height": 8096,
+    "width": 6015,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/sdb-f-20/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/sdb-f-20/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/sdb-f-20/canvas10/annoPage",
+            "body": {
+                "id": "https://iiif.manuscripta.se/iiif/ms-102466/ms-102466_0016.tif/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.manuscripta.se/iiif/ms-102466/ms-102466_0016.tif",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

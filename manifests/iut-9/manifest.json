@@ -1281,6 +1281,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas42",
+    "type": "Canvas",
+    "label": {"none":["21v"]},
+    "height": 6889,
+    "width": 4929,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas42/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas42/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas42/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256085",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256085",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

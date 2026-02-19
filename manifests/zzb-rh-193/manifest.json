@@ -10,6 +10,37 @@
     "label": { "none": [ "Image rights" ] },
     "value": { "none": [ "Zürich, Zentralbibliothek, Rh. 193. Foto: e-manuscripta. PDM 1.0" ] }
   },
-  "items" : [    
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-rh-193/canvas1",
+    "type": "Canvas",
+    "label": {"none":["[1]"]},
+    "height": 43562,
+    "width": 4995,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-rh-193/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-rh-193/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-rh-193/canvas1/annoPage",
+            "body": {
+                "id": "https://www.e-manuscripta.ch/download/webcache/1000/837988",
+                "type": "Image",
+                "service": [{
+                  "id": "https://www.e-manuscripta.ch/i3f/v20/837988",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
   ]
 }

@@ -320,6 +320,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/akb-wettf-9/canvas11",
+    "type": "Canvas",
+    "label": {"none":["244r"]},
+    "height": 8176,
+    "width": 6132,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/akb-wettf-9/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/akb-wettf-9/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/akb-wettf-9/canvas11/annoPage",
+            "body": {
+                "id": "https://www.e-codices.unifr.ch/loris/kba/kba-WettF0009/kba-WettF0009_244r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://www.e-codices.unifr.ch/loris/kba/kba-WettF0009/kba-WettF0009_244r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

@@ -630,6 +630,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas21",
+    "type": "Canvas",
+    "label": {"none":["140r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas21/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654940",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654940",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

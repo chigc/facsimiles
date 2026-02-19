@@ -847,6 +847,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas28",
+    "type": "Canvas",
+    "label": {"none":["16r"]},
+    "height": 7902,
+    "width": 5952,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas28/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas28/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas28/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/25FB9716-B295-4A91-B079-89FE13C90A11",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

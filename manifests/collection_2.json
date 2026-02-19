@@ -67,13 +67,6 @@
             }
         },                   
         {
-            "id": "https://chigc.github.io/facsimiles/manifests/hhb-fr-23/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none":["s´-Heerenberg, Huis Bergh, Ms. fr. 23 (Inv.No. 214) (Sh)"]
-            }
-        },                   
-        {
             "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/manifest.json",
             "type": "Manifest",
             "label": {

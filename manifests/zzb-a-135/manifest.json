@@ -785,6 +785,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas26",
+    "type": "Canvas",
+    "label": {"none":["72v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas26/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas26/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas26/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_072v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_072v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

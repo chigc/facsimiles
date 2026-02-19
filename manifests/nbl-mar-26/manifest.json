@@ -289,6 +289,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/nbl-mar-26/canvas10",
+    "type": "Canvas",
+    "label": {"none":["5v"]},
+    "height": 6947,
+    "width": 4833,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/nbl-mar-26/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/nbl-mar-26/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/nbl-mar-26/canvas10/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://collections.library.yale.edu/iiif/2/1011462",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

@@ -568,6 +568,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pkc-2243/canvas19",
+    "type": "Canvas",
+    "label": {"none":["10r"]},
+    "height": 7433,
+    "width": 6010,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pkc-2243/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pkc-2243/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pkc-2243/canvas19/annoPage",
+            "body": {
+                "id": "https://iiif-images.library.upenn.edu/iiif/2/a869ef43-755f-4af2-bc2d-f69140d7ed0b/full/!200,200/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-images.library.upenn.edu/iiif/2/a869ef43-755f-4af2-bc2d-f69140d7ed0b",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

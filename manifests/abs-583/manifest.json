@@ -1,0 +1,1503 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/abs-583/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Admont, Benediktinerstift, Cod. 583 (Ad1)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Admont, Benediktinerstift, Cod. 583. Image rights remain with the library." ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas1",
+    "type": "Canvas",
+    "label": {"none":["1r"]},
+    "height": 3451,
+    "width": 2496,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas1/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_001r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_001r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas2",
+    "type": "Canvas",
+    "label": {"none":["1v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas2/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_001v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_001v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas3",
+    "type": "Canvas",
+    "label": {"none":["2r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas3/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_002r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_002r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas4",
+    "type": "Canvas",
+    "label": {"none":["2v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas4/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_002v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_002v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas5",
+    "type": "Canvas",
+    "label": {"none":["3r"]},
+    "height": 3359,
+    "width": 2490,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas5/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_003r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_003r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas6",
+    "type": "Canvas",
+    "label": {"none":["3v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas6/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_003v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_003v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas7",
+    "type": "Canvas",
+    "label": {"none":["4r"]},
+    "height": 3359,
+    "width": 2490,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas7/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_004r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_004r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas8",
+    "type": "Canvas",
+    "label": {"none":["4v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas8/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_004v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_004v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas9",
+    "type": "Canvas",
+    "label": {"none":["5r"]},
+    "height": 3359,
+    "width": 2490,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas9/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_005r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_005r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas10",
+    "type": "Canvas",
+    "label": {"none":["5v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas10/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_005v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_005v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas11",
+    "type": "Canvas",
+    "label": {"none":["6r"]},
+    "height": 3359,
+    "width": 2490,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas11/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_006r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_006r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas12",
+    "type": "Canvas",
+    "label": {"none":["6v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas12/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_006v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_006v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas13",
+    "type": "Canvas",
+    "label": {"none":["7r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas13/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_007r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_007r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas14",
+    "type": "Canvas",
+    "label": {"none":["7v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas14/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_007v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_007v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas15",
+    "type": "Canvas",
+    "label": {"none":["8r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas15/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_008r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_008r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas16",
+    "type": "Canvas",
+    "label": {"none":["8v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas16/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_008v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_008v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas17",
+    "type": "Canvas",
+    "label": {"none":["9r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas17/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_009r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_009r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas18",
+    "type": "Canvas",
+    "label": {"none":["9v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas18/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas18/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas18/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_009v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_009v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas19",
+    "type": "Canvas",
+    "label": {"none":["10r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas19/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_010r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_010r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas20",
+    "type": "Canvas",
+    "label": {"none":["10v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas20/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas20/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas20/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_010v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_010v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas21",
+    "type": "Canvas",
+    "label": {"none":["11r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas21/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_011r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_011r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas22",
+    "type": "Canvas",
+    "label": {"none":["11v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas22/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas22/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas22/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_011v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_011v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas23",
+    "type": "Canvas",
+    "label": {"none":["12r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas23/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas23/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas23/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_012r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_012r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas24",
+    "type": "Canvas",
+    "label": {"none":["12v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas24/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas24/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas24/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_012v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_012v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas25",
+    "type": "Canvas",
+    "label": {"none":["13r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas25/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas25/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas25/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_013r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_013r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas26",
+    "type": "Canvas",
+    "label": {"none":["13v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas26/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas26/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas26/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_013v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_013v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas27",
+    "type": "Canvas",
+    "label": {"none":["14r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas27/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas27/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas27/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_014r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_014r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas28",
+    "type": "Canvas",
+    "label": {"none":["14v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas28/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas28/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas28/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_014v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_014v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas29",
+    "type": "Canvas",
+    "label": {"none":["15r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas29/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas29/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas29/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_015r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_015r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas30",
+    "type": "Canvas",
+    "label": {"none":["15v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas30/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas30/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas30/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_015v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_015v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas31",
+    "type": "Canvas",
+    "label": {"none":["16r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas31/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas31/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas31/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_016r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_016r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas32",
+    "type": "Canvas",
+    "label": {"none":["16v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas32/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas32/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas32/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_016v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_016v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas33",
+    "type": "Canvas",
+    "label": {"none":["17r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas33/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas33/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas33/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_017r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_017r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas34",
+    "type": "Canvas",
+    "label": {"none":["17v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas34/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas34/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas34/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_017v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_017v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas35",
+    "type": "Canvas",
+    "label": {"none":["18r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas35/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas35/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas35/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_018r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_018r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas36",
+    "type": "Canvas",
+    "label": {"none":["18v"]},
+    "height": 3376,
+    "width": 2388,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas36/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas36/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas36/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_018v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_018v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas37",
+    "type": "Canvas",
+    "label": {"none":["19r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas37/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas37/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas37/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_019r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_019r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas38",
+    "type": "Canvas",
+    "label": {"none":["19v"]},
+    "height": 3376,
+    "width": 2426,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas38/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas38/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas38/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_019v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_019v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas39",
+    "type": "Canvas",
+    "label": {"none":["20r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas39/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas39/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas39/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_020r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_020r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas40",
+    "type": "Canvas",
+    "label": {"none":["20v"]},
+    "height": 3376,
+    "width": 2426,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas40/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas40/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas40/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_020v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_020v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas41",
+    "type": "Canvas",
+    "label": {"none":["21r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas41/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas41/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas41/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_021r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_021r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas42",
+    "type": "Canvas",
+    "label": {"none":["21v"]},
+    "height": 3376,
+    "width": 2426,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas42/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas42/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas42/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_021v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_021v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas43",
+    "type": "Canvas",
+    "label": {"none":["22r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas43/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas43/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas43/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_022r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_022r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas44",
+    "type": "Canvas",
+    "label": {"none":["22v"]},
+    "height": 3376,
+    "width": 2426,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas44/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas44/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas44/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_022v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_022v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas45",
+    "type": "Canvas",
+    "label": {"none":["23r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas45/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas45/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas45/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_023r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_023r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas46",
+    "type": "Canvas",
+    "label": {"none":["23v"]},
+    "height": 3376,
+    "width": 2426,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas46/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas46/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas46/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_023v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_023v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas47",
+    "type": "Canvas",
+    "label": {"none":["24r"]},
+    "height": 3359,
+    "width": 2413,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas47/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas47/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas47/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_024r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_024r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas48",
+    "type": "Canvas",
+    "label": {"none":["24v"]},
+    "height": 3376,
+    "width": 2426,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas48/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/canvas48/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-583/canvas48/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-583/AT1000-583_024v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-583!AT1000-583_024v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

@@ -351,6 +351,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fbm-plut-15-11/canvas12",
+    "type": "Canvas",
+    "label": {"none":["Carta: 11r"]},
+    "height": 4671,
+    "width": 3258,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fbm-plut-15-11/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fbm-plut-15-11/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fbm-plut-15-11/canvas12/annoPage",
+            "body": {
+                "id": "https://cdm21059.contentdm.oclc.org/iiif/2/plutei:302211/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://cdm21059.contentdm.oclc.org/iiif/2/plutei:302211",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

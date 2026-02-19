@@ -227,6 +227,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-inc-quart-706a/canvas8",
+    "type": "Canvas",
+    "label": {"none":["4v"]},
+    "height": 5102,
+    "width": 3496,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-inc-quart-706a/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-inc-quart-706a/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-inc-quart-706a/canvas8/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/5028617",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/5028617",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

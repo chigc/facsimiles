@@ -351,6 +351,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas12",
+    "type": "Canvas",
+    "label": {"none":["f.10v"]},
+    "height": 7462,
+    "width": 6262,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/canvas12/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://bl.digirati.io/images/ark:/81055/vdc_100059906237.0x00001d",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

@@ -475,6 +475,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-16/canvas16",
+    "type": "Canvas",
+    "label": {"none":["68v - urn:nbn:de:urmel-ufb-153225-8-1427"]},
+    "height": 7923,
+    "width": 5592,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-16/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-16/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-16/canvas16/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015322%2FChart-A-00016_00142.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015322%2FChart-A-00016_00142.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

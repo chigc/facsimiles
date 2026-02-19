@@ -320,6 +320,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cmb-183/canvas11",
+    "type": "Canvas",
+    "label": {"none":["6r"]},
+    "height": 8172,
+    "width": 2423,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cmb-183/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cmb-183/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cmb-183/canvas11/annoPage",
+            "body": {
+                "id": "https://www.e-codices.unifr.ch/loris/fmb/fmb-cb-0183/fmb-cb-0183_0006r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://www.e-codices.unifr.ch/loris/fmb/fmb-cb-0183/fmb-cb-0183_0006r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

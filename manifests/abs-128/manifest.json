@@ -692,6 +692,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas23",
+    "type": "Canvas",
+    "label": {"none":["13r"]},
+    "height": 3342,
+    "width": 2439,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas23/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-128/canvas23/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/abs-128/canvas23/annoPage",
+            "body": {
+                "id": "https://manuscripta.at/images/AT/1000/AT1000-128/AT1000-128_013r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://manuscripta.at/cantaloupe/iiif/2/AT!1000!AT1000-128!AT1000-128_013r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

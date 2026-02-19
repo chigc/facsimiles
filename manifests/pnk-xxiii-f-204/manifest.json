@@ -506,6 +506,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pnk-xxiii-f-204/canvas17",
+    "type": "Canvas",
+    "label": {"none":["34r"]},
+    "height": 1677,
+    "width": 1204,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pnk-xxiii-f-204/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pnk-xxiii-f-204/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pnk-xxiii-f-204/canvas17/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/AIPDIG-NKCR__XXIII_F_204_14LMJJF-cs/ID0034r/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/AIPDIG-NKCR__XXIII_F_204_14LMJJF-cs/ID0034r",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

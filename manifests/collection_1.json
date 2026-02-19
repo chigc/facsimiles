@@ -214,24 +214,17 @@
             }
         },                   
         {
-            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-297/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none":["Paris, Bibliothèque nationale de France, Lat. 297 (P10)"]
-            }
-        },                   
-        {
-            "id": "https://chigc.github.io/facsimiles/manifests/pbn-lat-5101/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none":["Paris, Bibliothèque nationale de France, Lat. 5101 (P1)"]
-            }
-        },                   
-        {
             "id": "https://chigc.github.io/facsimiles/manifests/ccc-29/manifest.json",
             "type": "Manifest",
             "label": {
                 "none":["Cambridge, Corpus Christi College, MS 29 (C2)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/kac-696/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Klosterneuburg, Augustiner-Chorherrenstift, Cod. 696 (K)"]
             }
         },                   
         {

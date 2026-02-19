@@ -227,6 +227,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas8",
+    "type": "Canvas",
+    "label": {"none":["Strona 217"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas8/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0217/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0217",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

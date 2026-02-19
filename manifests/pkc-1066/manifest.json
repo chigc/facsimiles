@@ -785,6 +785,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pkc-1066/canvas26",
+    "type": "Canvas",
+    "label": {"none":["Membrane 13, Side 2"]},
+    "height": 7294,
+    "width": 3157,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pkc-1066/canvas26/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pkc-1066/canvas26/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pkc-1066/canvas26/annoPage",
+            "body": {
+                "id": "https://iiif-images.library.upenn.edu/iiif/2/bd2b5684-44aa-4018-a667-7e141f18ffd0/full/!200,200/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-images.library.upenn.edu/iiif/2/bd2b5684-44aa-4018-a667-7e141f18ffd0",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

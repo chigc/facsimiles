@@ -351,6 +351,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsu-mbs-0121/canvas12",
+    "type": "Canvas",
+    "label": {"none":["85v"]},
+    "height": 2964,
+    "width": 2482,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsu-mbs-0121/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsu-mbs-0121/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsu-mbs-0121/canvas12/annoPage",
+            "body": {
+                "id": "https://brema.suub.uni-bremen.de/download/webcache/1000/2633888",
+                "type": "Image",
+                "service": [{
+                  "id": "https://brema.suub.uni-bremen.de/i3f/v20/2633888",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }

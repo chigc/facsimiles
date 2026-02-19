@@ -320,6 +320,37 @@
           ]
         }
       ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-1-16/canvas11",
+    "type": "Canvas",
+    "label": {"none":["6r"]},
+    "height": 10172,
+    "width": 6576,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-1-16/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-1-16/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-1-16/canvas11/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00001-00016-000-00023.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00001-00016-000-00023.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
     }    
   ]
 }
