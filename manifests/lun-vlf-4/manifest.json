@@ -1,0 +1,263 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Leiden, Universiteitsbibliotheek, VLF 4 (Ln)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Leiden, Universiteitsbibliotheek, VLF 4. Foto: Leiden University Libraries. PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas1",
+    "type": "Canvas",
+    "label": {"none":["f034r"]},
+    "height": 5131,
+    "width": 3802,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas1/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237742/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237742",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas2",
+    "type": "Canvas",
+    "label": {"none":["f034v"]},
+    "height": 5099,
+    "width": 3961,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas2/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237741/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237741",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas3",
+    "type": "Canvas",
+    "label": {"none":["f035r"]},
+    "height": 5210,
+    "width": 3802,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas3/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237740/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237740",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas4",
+    "type": "Canvas",
+    "label": {"none":["f035v"]},
+    "height": 5099,
+    "width": 3961,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas4/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237739/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237739",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas5",
+    "type": "Canvas",
+    "label": {"none":["f036r"]},
+    "height": 5210,
+    "width": 3802,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas5/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237738/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237738",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas6",
+    "type": "Canvas",
+    "label": {"none":["f036v"]},
+    "height": 5099,
+    "width": 3961,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas6/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237737/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237737",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas7",
+    "type": "Canvas",
+    "label": {"none":["f037r"]},
+    "height": 5210,
+    "width": 3612,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas7/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237736/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237736",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas8",
+    "type": "Canvas",
+    "label": {"none":["f037v"]},
+    "height": 5099,
+    "width": 3940,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/canvas8/annoPage",
+            "body": {
+                "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237735/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:4237735",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

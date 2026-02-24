@@ -1,0 +1,666 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Frankfurt am Main, Stadt- und Universitätsbibliothek, Ms. germ. quart 13 (Fm)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Frankfurt am Main, Stadt- und Universitätsbibliothek, Ms. germ. quart 13. Foto: Universitätsbibliothek Goethe Universität, Frankfurtam Main. PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas1",
+    "type": "Canvas",
+    "label": {"none":["130r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas1/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654920",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654920",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas2",
+    "type": "Canvas",
+    "label": {"none":["130v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas2/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654921",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654921",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas3",
+    "type": "Canvas",
+    "label": {"none":["131r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas3/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654922",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654922",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas4",
+    "type": "Canvas",
+    "label": {"none":["131v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas4/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654923",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654923",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas5",
+    "type": "Canvas",
+    "label": {"none":["132r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas5/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654924",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654924",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas6",
+    "type": "Canvas",
+    "label": {"none":["132v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas6/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654925",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654925",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas7",
+    "type": "Canvas",
+    "label": {"none":["133r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas7/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654926",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654926",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas8",
+    "type": "Canvas",
+    "label": {"none":["133v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas8/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654927",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654927",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas9",
+    "type": "Canvas",
+    "label": {"none":["134r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas9/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654928",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654928",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas10",
+    "type": "Canvas",
+    "label": {"none":["134v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas10/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654929",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654929",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas11",
+    "type": "Canvas",
+    "label": {"none":["135r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas11/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654930",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654930",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas12",
+    "type": "Canvas",
+    "label": {"none":["135v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas12/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654931",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654931",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas13",
+    "type": "Canvas",
+    "label": {"none":["136r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas13/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654932",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654932",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas14",
+    "type": "Canvas",
+    "label": {"none":["136v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas14/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654933",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654933",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas15",
+    "type": "Canvas",
+    "label": {"none":["137r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas15/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654934",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654934",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas16",
+    "type": "Canvas",
+    "label": {"none":["137v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas16/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654935",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654935",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas17",
+    "type": "Canvas",
+    "label": {"none":["138r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas17/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654936",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654936",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas18",
+    "type": "Canvas",
+    "label": {"none":["138v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas18/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas18/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas18/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654937",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654937",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas19",
+    "type": "Canvas",
+    "label": {"none":["139r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas19/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654938",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654938",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas20",
+    "type": "Canvas",
+    "label": {"none":["139v"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas20/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas20/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas20/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654939",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654939",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas21",
+    "type": "Canvas",
+    "label": {"none":["140r"]},
+    "height": 4645,
+    "width": 3417,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/canvas21/annoPage",
+            "body": {
+                "id": "https://sammlungen.ub.uni-frankfurt.de/download/webcache/1000/3654940",
+                "type": "Image",
+                "service": [{
+                  "id": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/3654940",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

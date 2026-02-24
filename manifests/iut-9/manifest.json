@@ -1,0 +1,1317 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/iut-9/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Innsbruck, Universitäts- und Landesbibliothek Tirol, Cod. 9 (I)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Innsbruck, Universitäts- und Landesbibliothek Tirol, Cod. 9. Foto: Universitäts- und Landesbibliothek Tirol. CC BY-NC-SA 4.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas1",
+    "type": "Canvas",
+    "label": {"none":["1r"]},
+    "height": 6895,
+    "width": 4923,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas1/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10319737",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10319737",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas2",
+    "type": "Canvas",
+    "label": {"none":["1v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas2/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255880",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255880",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas3",
+    "type": "Canvas",
+    "label": {"none":["2r"]},
+    "height": 6891,
+    "width": 4916,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas3/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255881",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255881",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas4",
+    "type": "Canvas",
+    "label": {"none":["2v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas4/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255883",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255883",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas5",
+    "type": "Canvas",
+    "label": {"none":["3r"]},
+    "height": 6891,
+    "width": 4916,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas5/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255884",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255884",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas6",
+    "type": "Canvas",
+    "label": {"none":["3v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas6/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255885",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255885",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas7",
+    "type": "Canvas",
+    "label": {"none":["4r"]},
+    "height": 6891,
+    "width": 4916,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas7/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255886",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255886",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas8",
+    "type": "Canvas",
+    "label": {"none":["4v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas8/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255887",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255887",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas9",
+    "type": "Canvas",
+    "label": {"none":["5r"]},
+    "height": 6891,
+    "width": 4916,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas9/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255888",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255888",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas10",
+    "type": "Canvas",
+    "label": {"none":["5v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas10/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255890",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255890",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas11",
+    "type": "Canvas",
+    "label": {"none":["6r"]},
+    "height": 6891,
+    "width": 4916,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas11/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255891",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255891",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas12",
+    "type": "Canvas",
+    "label": {"none":["6v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas12/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255892",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255892",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas13",
+    "type": "Canvas",
+    "label": {"none":["7r"]},
+    "height": 6891,
+    "width": 4916,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas13/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255893",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255893",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas14",
+    "type": "Canvas",
+    "label": {"none":["7v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas14/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255894",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255894",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas15",
+    "type": "Canvas",
+    "label": {"none":["8r"]},
+    "height": 6894,
+    "width": 4917,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas15/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255895",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255895",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas16",
+    "type": "Canvas",
+    "label": {"none":["8v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas16/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255896",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255896",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas17",
+    "type": "Canvas",
+    "label": {"none":["9r"]},
+    "height": 6894,
+    "width": 4916,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas17/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255897",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255897",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas18",
+    "type": "Canvas",
+    "label": {"none":["9v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas18/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas18/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas18/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255899",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255899",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas19",
+    "type": "Canvas",
+    "label": {"none":["10r"]},
+    "height": 6891,
+    "width": 4916,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas19/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255906",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255906",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas20",
+    "type": "Canvas",
+    "label": {"none":["10v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas20/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas20/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas20/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255913",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255913",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas21",
+    "type": "Canvas",
+    "label": {"none":["11r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas21/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255923",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255923",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas22",
+    "type": "Canvas",
+    "label": {"none":["11v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas22/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas22/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas22/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255932",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255932",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas23",
+    "type": "Canvas",
+    "label": {"none":["12r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas23/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas23/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas23/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255941",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255941",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas24",
+    "type": "Canvas",
+    "label": {"none":["12v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas24/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas24/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas24/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255948",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255948",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas25",
+    "type": "Canvas",
+    "label": {"none":["13r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas25/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas25/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas25/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255956",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255956",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas26",
+    "type": "Canvas",
+    "label": {"none":["13v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas26/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas26/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas26/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255962",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255962",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas27",
+    "type": "Canvas",
+    "label": {"none":["14r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas27/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas27/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas27/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255969",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255969",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas28",
+    "type": "Canvas",
+    "label": {"none":["14v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas28/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas28/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas28/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255976",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255976",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas29",
+    "type": "Canvas",
+    "label": {"none":["15r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas29/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas29/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas29/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255983",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255983",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas30",
+    "type": "Canvas",
+    "label": {"none":["15v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas30/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas30/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas30/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255991",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255991",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas31",
+    "type": "Canvas",
+    "label": {"none":["16r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas31/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas31/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas31/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10255998",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10255998",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas32",
+    "type": "Canvas",
+    "label": {"none":["16v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas32/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas32/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas32/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256005",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256005",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas33",
+    "type": "Canvas",
+    "label": {"none":["17r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas33/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas33/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas33/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256013",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256013",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas34",
+    "type": "Canvas",
+    "label": {"none":["17v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas34/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas34/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas34/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256020",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256020",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas35",
+    "type": "Canvas",
+    "label": {"none":["18r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas35/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas35/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas35/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256028",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256028",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas36",
+    "type": "Canvas",
+    "label": {"none":["18v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas36/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas36/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas36/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256035",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256035",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas37",
+    "type": "Canvas",
+    "label": {"none":["19r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas37/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas37/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas37/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256045",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256045",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas38",
+    "type": "Canvas",
+    "label": {"none":["19v"]},
+    "height": 6887,
+    "width": 4935,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas38/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas38/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas38/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256053",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256053",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas39",
+    "type": "Canvas",
+    "label": {"none":["20r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas39/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas39/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas39/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256062",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256062",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas40",
+    "type": "Canvas",
+    "label": {"none":["20v"]},
+    "height": 6889,
+    "width": 4929,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas40/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas40/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas40/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256070",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256070",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas41",
+    "type": "Canvas",
+    "label": {"none":["21r"]},
+    "height": 6893,
+    "width": 4918,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas41/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas41/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas41/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256078",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256078",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas42",
+    "type": "Canvas",
+    "label": {"none":["21v"]},
+    "height": 6889,
+    "width": 4929,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas42/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/canvas42/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/iut-9/canvas42/annoPage",
+            "body": {
+                "id": "https://ulb-digital.uibk.ac.at/download/webcache/1000/10256085",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ulb-digital.uibk.ac.at/i3f/v20/10256085",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

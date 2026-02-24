@@ -1,0 +1,418 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Cambridge, University Library, MS Dd. 8.12 (C15)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Cambridge, University Library, MS Dd. 8.12. Foto: Cambridge University Digital Library. CC BY 4.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas1",
+    "type": "Canvas",
+    "label": {"none":["461r"]},
+    "height": 10437,
+    "width": 6414,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas1/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00923.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00923.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas2",
+    "type": "Canvas",
+    "label": {"none":["461v"]},
+    "height": 10579,
+    "width": 6616,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas2/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00924.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00924.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas3",
+    "type": "Canvas",
+    "label": {"none":["462r"]},
+    "height": 10437,
+    "width": 6414,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas3/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00925.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00925.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas4",
+    "type": "Canvas",
+    "label": {"none":["462v"]},
+    "height": 10579,
+    "width": 6616,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas4/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00926.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00926.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas5",
+    "type": "Canvas",
+    "label": {"none":["463r"]},
+    "height": 10437,
+    "width": 6414,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas5/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00927.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00927.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas6",
+    "type": "Canvas",
+    "label": {"none":["463v"]},
+    "height": 10579,
+    "width": 6616,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas6/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00928.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00928.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas7",
+    "type": "Canvas",
+    "label": {"none":["464r"]},
+    "height": 10437,
+    "width": 6414,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas7/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00929.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00929.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas8",
+    "type": "Canvas",
+    "label": {"none":["464v"]},
+    "height": 10579,
+    "width": 6616,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas8/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00930.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00930.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas9",
+    "type": "Canvas",
+    "label": {"none":["465r"]},
+    "height": 10437,
+    "width": 6414,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas9/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00931.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00931.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas10",
+    "type": "Canvas",
+    "label": {"none":["465v"]},
+    "height": 10579,
+    "width": 6616,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas10/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00932.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00932.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas11",
+    "type": "Canvas",
+    "label": {"none":["466r"]},
+    "height": 10437,
+    "width": 6414,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas11/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00933.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00933.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas12",
+    "type": "Canvas",
+    "label": {"none":["466v"]},
+    "height": 10579,
+    "width": 6616,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas12/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00934.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00934.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas13",
+    "type": "Canvas",
+    "label": {"none":["467r"]},
+    "height": 10437,
+    "width": 6414,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/canvas13/annoPage",
+            "body": {
+                "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00935.jp2",
+                "type": "Image",
+                "service": [{
+                  "id": "https://images.lib.cam.ac.uk/iiif/MS-DD-00008-00012-000-00935.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

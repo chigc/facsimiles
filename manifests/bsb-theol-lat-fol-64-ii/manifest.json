@@ -1,0 +1,356 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Berlin, Staatsbibliothek, Ms. theol. lat. fol. 64, II (B6b)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Berlin, Staatsbibliothek, Ms. theol. lat. fol. 64, II. Foto: Staatsbibliothek zu Berlin. PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas1",
+    "type": "Canvas",
+    "label": {"none":["225r [451]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas1/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0451/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0451",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas2",
+    "type": "Canvas",
+    "label": {"none":["225v [452]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas2/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0452/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0452",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas3",
+    "type": "Canvas",
+    "label": {"none":["226r [453]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas3/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0453/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0453",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas4",
+    "type": "Canvas",
+    "label": {"none":["226v [454]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas4/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0454/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0454",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas5",
+    "type": "Canvas",
+    "label": {"none":["227r [455]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas5/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0455/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0455",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas6",
+    "type": "Canvas",
+    "label": {"none":["227v [456]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas6/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0456/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0456",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas7",
+    "type": "Canvas",
+    "label": {"none":["228r [457]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas7/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0457/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0457",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas8",
+    "type": "Canvas",
+    "label": {"none":["228v [458]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas8/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0458/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0458",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas9",
+    "type": "Canvas",
+    "label": {"none":["229r [459]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas9/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0459/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0459",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas10",
+    "type": "Canvas",
+    "label": {"none":["229v [460]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas10/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0460/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0460",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas11",
+    "type": "Canvas",
+    "label": {"none":["230r [461]"]},
+    "height": 900,
+    "width": 600,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/canvas11/annoPage",
+            "body": {
+                "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0461/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://content.staatsbibliothek-berlin.de/dc/689545150-0461",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-4-173/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 4° 173 (E3)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 4° 173. Foto: Universitäts- und Forschungsbibliothek Erfurt/Gotha. PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-4-173/canvas1",
+    "type": "Canvas",
+    "label": {"none":["74r - urn:nbn:de:urmel-ufb-154835-8-1515"]},
+    "height": 5966,
+    "width": 4339,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-4-173/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-4-173/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-4-173/canvas1/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015483%2FCA-4-00173_0151.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015483%2FCA-4-00173_0151.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

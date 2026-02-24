@@ -1,0 +1,449 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["München, Bayerische Staatsbibliothek, Clm 8201 (M10)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "München, Bayerische Staatsbibliothek, Clm 8201. Foto: Bayerische Staatsbibliothek. PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas1",
+    "type": "Canvas",
+    "label": {"none":["101r (0205)"]},
+    "height": 7720,
+    "width": 5294,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas1/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00205/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00205",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas2",
+    "type": "Canvas",
+    "label": {"none":["101v (0206)"]},
+    "height": 7751,
+    "width": 5370,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas2/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00206/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00206",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas3",
+    "type": "Canvas",
+    "label": {"none":["102r (0207)"]},
+    "height": 7726,
+    "width": 5311,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas3/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00207/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00207",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas4",
+    "type": "Canvas",
+    "label": {"none":["102v (0208)"]},
+    "height": 7732,
+    "width": 5426,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas4/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00208/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00208",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas5",
+    "type": "Canvas",
+    "label": {"none":["103r (0209)"]},
+    "height": 7708,
+    "width": 5324,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas5/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00209/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00209",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas6",
+    "type": "Canvas",
+    "label": {"none":["103v (0210)"]},
+    "height": 7737,
+    "width": 5337,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas6/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00210/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00210",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas7",
+    "type": "Canvas",
+    "label": {"none":["104r (0211)"]},
+    "height": 7695,
+    "width": 5392,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas7/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00211/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00211",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas8",
+    "type": "Canvas",
+    "label": {"none":["104v (0212)"]},
+    "height": 7735,
+    "width": 5374,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas8/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00212/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00212",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas9",
+    "type": "Canvas",
+    "label": {"none":["105r (0213)"]},
+    "height": 7699,
+    "width": 5323,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas9/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00213/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00213",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas10",
+    "type": "Canvas",
+    "label": {"none":["105v (0214)"]},
+    "height": 7762,
+    "width": 5318,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas10/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00214/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00214",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas11",
+    "type": "Canvas",
+    "label": {"none":["106r (0215)"]},
+    "height": 7717,
+    "width": 5322,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas11/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00215/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00215",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas12",
+    "type": "Canvas",
+    "label": {"none":["106v (0216)"]},
+    "height": 7773,
+    "width": 5320,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas12/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00216/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00216",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas13",
+    "type": "Canvas",
+    "label": {"none":["107r (0217)"]},
+    "height": 7665,
+    "width": 5315,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas13/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00217/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00217",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas14",
+    "type": "Canvas",
+    "label": {"none":["107v (0218)"]},
+    "height": 7778,
+    "width": 5352,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/canvas14/annoPage",
+            "body": {
+                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00218/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040329_00218",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

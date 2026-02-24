@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/mbe-lat-693/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Modena, Biblioteca Estense Universitaria, Estense, Lat. 693 = alfa.L.2.2 (Mo)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Modena, Biblioteca Estense Universitaria, Estense, Lat. 693 = alfa.L.2.2. Image rights remain with Biblioteca Estense Universitaria." ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/mbe-lat-693/canvas1",
+    "type": "Canvas",
+    "label": {"none":["1 - 1003"]},
+    "height": 79764,
+    "width": 9327,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/mbe-lat-693/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbe-lat-693/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/mbe-lat-693/canvas1/annoPage",
+            "body": {
+                "id": "https://edl-jarvis.cultura.gov.it/images/iiif/db/6787b913-83ff-4750-bdab-29cf54b2d3a1",
+                "type": "Image",
+                "service": [{
+                  "id": "https://edl-jarvis.cultura.gov.it/images/iiif/db/6787b913-83ff-4750-bdab-29cf54b2d3a1",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Lilienfeld, Zisterzienserstift, Cod. 227 (Lf)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Lilienfeld, Zisterzienserstift, Cod. 227. Foto: Manuscriptorium. CC BY-NC-SA 4.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas1",
+    "type": "Canvas",
+    "label": {"none":["5"]},
+    "height": 5883,
+    "width": 4347,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas1/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0005/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0005",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas2",
+    "type": "Canvas",
+    "label": {"none":["6"]},
+    "height": 5723,
+    "width": 4339,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas2/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0006/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0006",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas3",
+    "type": "Canvas",
+    "label": {"none":["7"]},
+    "height": 5705,
+    "width": 4347,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas3/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0007/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0007",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas4",
+    "type": "Canvas",
+    "label": {"none":["8"]},
+    "height": 5724,
+    "width": 4339,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas4/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0008/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0008",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas5",
+    "type": "Canvas",
+    "label": {"none":["9"]},
+    "height": 5705,
+    "width": 4347,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas5/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0009/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0009",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas6",
+    "type": "Canvas",
+    "label": {"none":["10"]},
+    "height": 5724,
+    "width": 4339,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas6/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0010/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0010",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas7",
+    "type": "Canvas",
+    "label": {"none":["11"]},
+    "height": 5705,
+    "width": 4347,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas7/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0011/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0011",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas8",
+    "type": "Canvas",
+    "label": {"none":["12"]},
+    "height": 5724,
+    "width": 4339,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas8/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0012/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0012",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas9",
+    "type": "Canvas",
+    "label": {"none":["13"]},
+    "height": 5705,
+    "width": 4347,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas9/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0013/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0013",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas10",
+    "type": "Canvas",
+    "label": {"none":["14"]},
+    "height": 5724,
+    "width": 4339,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lzs-227/canvas10/annoPage",
+            "body": {
+                "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0014/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://imagines.manuscriptorium.com/loris/LILIEN-SLA___HS_227______0CVFFH8-en/ID_0014",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

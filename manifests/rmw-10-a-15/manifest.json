@@ -1,0 +1,883 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Den Haag, Rijksmuseum Meermanno-Westreenianum, Ms. 10 A 15 (Dh)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Den Haag, Rijksmuseum Meermanno-Westreenianum, Ms. 10 A 15. Foto: eCodicesNL. CC BY 4.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas1",
+    "type": "Canvas",
+    "label": {"none":["2v"]},
+    "height": 7771,
+    "width": 6067,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas1/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/C14B7784-177D-4E9B-BB5C-486CE0ED8BB6",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas2",
+    "type": "Canvas",
+    "label": {"none":["3r"]},
+    "height": 7979,
+    "width": 5931,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas2/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/8667CDE5-517B-466B-A417-0E4643AB62FD",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas3",
+    "type": "Canvas",
+    "label": {"none":["3v"]},
+    "height": 7771,
+    "width": 6067,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas3/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/2F46D945-4438-437A-84BF-1E85DD1FD0C6",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas4",
+    "type": "Canvas",
+    "label": {"none":["4r"]},
+    "height": 8100,
+    "width": 5932,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas4/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/1C33B89D-C205-44AA-A1B0-DB52CD9D8542",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas5",
+    "type": "Canvas",
+    "label": {"none":["4v"]},
+    "height": 8014,
+    "width": 6012,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas5/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/267669EC-534B-4AD0-9FAC-2C533310219C",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas6",
+    "type": "Canvas",
+    "label": {"none":["5r"]},
+    "height": 8058,
+    "width": 5932,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas6/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/320D63AC-34F1-4F90-8C66-71973E9BD4D5",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas7",
+    "type": "Canvas",
+    "label": {"none":["5v"]},
+    "height": 7911,
+    "width": 6012,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas7/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/3A7C7630-F2B3-468E-BD35-3EC56F35AB1B",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas8",
+    "type": "Canvas",
+    "label": {"none":["6r"]},
+    "height": 8110,
+    "width": 5932,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas8/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/3C1FB8D8-4E6A-4556-A70B-DB20267E20FE",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas9",
+    "type": "Canvas",
+    "label": {"none":["6v"]},
+    "height": 7816,
+    "width": 6012,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas9/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/02AF8C68-0F56-4F3E-8C31-24FE5DA503A0",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas10",
+    "type": "Canvas",
+    "label": {"none":["7r"]},
+    "height": 8165,
+    "width": 5932,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas10/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/1C8CAF63-02BE-4C73-823F-71E993801535",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas11",
+    "type": "Canvas",
+    "label": {"none":["7v"]},
+    "height": 7816,
+    "width": 6012,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas11/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/8C993834-D5AF-4576-A965-82D23C0D7ADA",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas12",
+    "type": "Canvas",
+    "label": {"none":["8r"]},
+    "height": 7923,
+    "width": 5932,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas12/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/753A2D40-90D1-442D-8C7C-122849663598",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas13",
+    "type": "Canvas",
+    "label": {"none":["8v"]},
+    "height": 7786,
+    "width": 5960,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas13/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/5187E720-8EFB-42E6-AD6A-B8FC327A879E",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas14",
+    "type": "Canvas",
+    "label": {"none":["9r"]},
+    "height": 7871,
+    "width": 5932,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas14/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/85454453-9E81-4143-9E68-FCC46F52D166",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas15",
+    "type": "Canvas",
+    "label": {"none":["9v"]},
+    "height": 7873,
+    "width": 5960,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas15/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/C53A0CE0-93D8-4B26-AC4B-C3218C767F22",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas16",
+    "type": "Canvas",
+    "label": {"none":["10r"]},
+    "height": 7871,
+    "width": 5932,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas16/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/E5624E07-0B42-4430-871B-50D849E04690",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas17",
+    "type": "Canvas",
+    "label": {"none":["10v"]},
+    "height": 7838,
+    "width": 5953,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas17/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/B0DD0661-34AE-40E5-80F4-DCC22B6D032C",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas18",
+    "type": "Canvas",
+    "label": {"none":["11r"]},
+    "height": 7871,
+    "width": 5932,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas18/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas18/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas18/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/11F393A0-26BA-4263-97CA-87C161F5A6A2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas19",
+    "type": "Canvas",
+    "label": {"none":["11v"]},
+    "height": 7838,
+    "width": 5953,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas19/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/EC1747D3-F141-42D0-9273-7FB68C7B9D86",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas20",
+    "type": "Canvas",
+    "label": {"none":["12r"]},
+    "height": 7947,
+    "width": 5952,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas20/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas20/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas20/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/8B110661-AA81-43F9-A699-AB232930384F",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas21",
+    "type": "Canvas",
+    "label": {"none":["12v"]},
+    "height": 7838,
+    "width": 5993,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas21/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/54B73C38-5FA9-419A-AACA-B4A5D8B7B509",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas22",
+    "type": "Canvas",
+    "label": {"none":["13r"]},
+    "height": 7947,
+    "width": 5952,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas22/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas22/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas22/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/82FDB1EA-840B-47C6-AB6F-B3B41DB7A0D4",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas23",
+    "type": "Canvas",
+    "label": {"none":["13v"]},
+    "height": 7838,
+    "width": 5993,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas23/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas23/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas23/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/D52C114D-1315-40BA-BA82-5A875A4C4049",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas24",
+    "type": "Canvas",
+    "label": {"none":["14r"]},
+    "height": 7947,
+    "width": 5952,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas24/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas24/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas24/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/89E59D52-C352-4725-9448-B6B014D03497",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas25",
+    "type": "Canvas",
+    "label": {"none":["14v"]},
+    "height": 7838,
+    "width": 5993,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas25/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas25/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas25/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/A664C60C-C1DB-490C-A24E-D3EBC4EE752E",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas26",
+    "type": "Canvas",
+    "label": {"none":["15r"]},
+    "height": 7902,
+    "width": 5952,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas26/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas26/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas26/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/4CB754F7-FA43-4AAE-A8BD-06C364CD05B5",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas27",
+    "type": "Canvas",
+    "label": {"none":["15v"]},
+    "height": 7805,
+    "width": 6003,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas27/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas27/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas27/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/0EAAEF53-A5C9-4E77-B1D1-6DE6519AB829",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas28",
+    "type": "Canvas",
+    "label": {"none":["16r"]},
+    "height": 7902,
+    "width": 5952,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas28/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas28/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/canvas28/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "https://access.ecodices.nl/iiif/image/25FB9716-B295-4A91-B079-89FE13C90A11",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

@@ -1,0 +1,1348 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Gotha, Forschungs- und Landesbibliothek, Chart. A 4 (Go)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Gotha, Forschungs- und Landesbibliothek, Chart. A 4. Foto: Forschungsbibliothek Gotha . PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas1",
+    "type": "Canvas",
+    "label": {"none":["1r - urn:nbn:de:urmel-ufb-153235-8-0033"]},
+    "height": 7585,
+    "width": 5316,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas1/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00003.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00003.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas2",
+    "type": "Canvas",
+    "label": {"none":["1v - urn:nbn:de:urmel-ufb-153235-8-0049"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas2/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00004.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00004.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas3",
+    "type": "Canvas",
+    "label": {"none":["2r - urn:nbn:de:urmel-ufb-153235-8-0054"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas3/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00005.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00005.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas4",
+    "type": "Canvas",
+    "label": {"none":["2v - urn:nbn:de:urmel-ufb-153235-8-0064"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas4/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00006.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00006.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas5",
+    "type": "Canvas",
+    "label": {"none":["3r - urn:nbn:de:urmel-ufb-153235-8-0079"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas5/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00007.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00007.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas6",
+    "type": "Canvas",
+    "label": {"none":["3v - urn:nbn:de:urmel-ufb-153235-8-0088"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas6/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00008.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00008.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas7",
+    "type": "Canvas",
+    "label": {"none":["4r - urn:nbn:de:urmel-ufb-153235-8-0099"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas7/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00009.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00009.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas8",
+    "type": "Canvas",
+    "label": {"none":["4v - urn:nbn:de:urmel-ufb-153235-8-0109"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas8/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00010.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00010.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas9",
+    "type": "Canvas",
+    "label": {"none":["5r - urn:nbn:de:urmel-ufb-153235-8-0117"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas9/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00011.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00011.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas10",
+    "type": "Canvas",
+    "label": {"none":["5v - urn:nbn:de:urmel-ufb-153235-8-0120"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas10/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00012.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00012.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas11",
+    "type": "Canvas",
+    "label": {"none":["6r - urn:nbn:de:urmel-ufb-153235-8-0136"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas11/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00013.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00013.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas12",
+    "type": "Canvas",
+    "label": {"none":["6v - urn:nbn:de:urmel-ufb-153235-8-0140"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas12/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00014.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00014.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas13",
+    "type": "Canvas",
+    "label": {"none":["7r - urn:nbn:de:urmel-ufb-153235-8-0153"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas13/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00015.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00015.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas14",
+    "type": "Canvas",
+    "label": {"none":["7v - urn:nbn:de:urmel-ufb-153235-8-0162"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas14/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00016.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00016.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas15",
+    "type": "Canvas",
+    "label": {"none":["8r - urn:nbn:de:urmel-ufb-153235-8-0176"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas15/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00017.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00017.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas16",
+    "type": "Canvas",
+    "label": {"none":["8v - urn:nbn:de:urmel-ufb-153235-8-0184"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas16/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00018.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00018.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas17",
+    "type": "Canvas",
+    "label": {"none":["9r - urn:nbn:de:urmel-ufb-153235-8-0194"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas17/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00019.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00019.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas18",
+    "type": "Canvas",
+    "label": {"none":["9v - urn:nbn:de:urmel-ufb-153235-8-0204"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas18/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas18/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas18/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00020.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00020.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas19",
+    "type": "Canvas",
+    "label": {"none":["10r - urn:nbn:de:urmel-ufb-153235-8-0215"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas19/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00021.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00021.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas20",
+    "type": "Canvas",
+    "label": {"none":["10v - urn:nbn:de:urmel-ufb-153235-8-0228"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas20/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas20/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas20/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00022.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00022.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas21",
+    "type": "Canvas",
+    "label": {"none":["11r - urn:nbn:de:urmel-ufb-153235-8-0230"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas21/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00023.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00023.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas22",
+    "type": "Canvas",
+    "label": {"none":["11v - urn:nbn:de:urmel-ufb-153235-8-0241"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas22/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas22/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas22/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00024.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00024.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas23",
+    "type": "Canvas",
+    "label": {"none":["12r - urn:nbn:de:urmel-ufb-153235-8-0252"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas23/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas23/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas23/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00025.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00025.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas24",
+    "type": "Canvas",
+    "label": {"none":["12v - urn:nbn:de:urmel-ufb-153235-8-0260"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas24/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas24/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas24/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00026.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00026.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas25",
+    "type": "Canvas",
+    "label": {"none":["13r - urn:nbn:de:urmel-ufb-153235-8-0273"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas25/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas25/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas25/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00027.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00027.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas26",
+    "type": "Canvas",
+    "label": {"none":["13v - urn:nbn:de:urmel-ufb-153235-8-0280"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas26/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas26/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas26/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00028.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00028.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas27",
+    "type": "Canvas",
+    "label": {"none":["14r - urn:nbn:de:urmel-ufb-153235-8-0299"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas27/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas27/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas27/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00029.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00029.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas28",
+    "type": "Canvas",
+    "label": {"none":["14v - urn:nbn:de:urmel-ufb-153235-8-0309"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas28/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas28/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas28/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00030.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00030.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas29",
+    "type": "Canvas",
+    "label": {"none":["15r - urn:nbn:de:urmel-ufb-153235-8-0312"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas29/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas29/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas29/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00031.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00031.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas30",
+    "type": "Canvas",
+    "label": {"none":["15v - urn:nbn:de:urmel-ufb-153235-8-0327"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas30/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas30/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas30/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00032.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00032.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas31",
+    "type": "Canvas",
+    "label": {"none":["16r - urn:nbn:de:urmel-ufb-153235-8-0334"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas31/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas31/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas31/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00033.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00033.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas32",
+    "type": "Canvas",
+    "label": {"none":["16v - urn:nbn:de:urmel-ufb-153235-8-0342"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas32/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas32/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas32/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00034.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00034.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas33",
+    "type": "Canvas",
+    "label": {"none":["17r - urn:nbn:de:urmel-ufb-153235-8-0351"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas33/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas33/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas33/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00035.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00035.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas34",
+    "type": "Canvas",
+    "label": {"none":["17v - urn:nbn:de:urmel-ufb-153235-8-0367"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas34/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas34/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas34/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00036.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00036.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas35",
+    "type": "Canvas",
+    "label": {"none":["18r - urn:nbn:de:urmel-ufb-153235-8-0370"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas35/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas35/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas35/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00037.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00037.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas36",
+    "type": "Canvas",
+    "label": {"none":["18v - urn:nbn:de:urmel-ufb-153235-8-0386"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas36/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas36/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas36/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00038.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00038.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas37",
+    "type": "Canvas",
+    "label": {"none":["19r - urn:nbn:de:urmel-ufb-153235-8-0394"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas37/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas37/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas37/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00039.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00039.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas38",
+    "type": "Canvas",
+    "label": {"none":["19v - urn:nbn:de:urmel-ufb-153235-8-0404"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas38/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas38/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas38/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00040.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00040.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas39",
+    "type": "Canvas",
+    "label": {"none":["20r - urn:nbn:de:urmel-ufb-153235-8-0410"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas39/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas39/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas39/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00041.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00041.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas40",
+    "type": "Canvas",
+    "label": {"none":["20v - urn:nbn:de:urmel-ufb-153235-8-0425"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas40/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas40/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas40/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00042.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00042.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas41",
+    "type": "Canvas",
+    "label": {"none":["21r - urn:nbn:de:urmel-ufb-153235-8-0438"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas41/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas41/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas41/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00043.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00043.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas42",
+    "type": "Canvas",
+    "label": {"none":["21v - urn:nbn:de:urmel-ufb-153235-8-0443"]},
+    "height": 7708,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas42/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas42/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas42/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00044.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00044.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas43",
+    "type": "Canvas",
+    "label": {"none":["22r - urn:nbn:de:urmel-ufb-153235-8-0450"]},
+    "height": 7709,
+    "width": 5342,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas43/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas43/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/canvas43/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00045.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00015323%2FChart-A-00004_00045.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

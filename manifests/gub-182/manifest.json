@@ -1,0 +1,697 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/gub-182/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Graz, Universitätsbibliothek, Ms. 182 (G)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Graz, Universitätsbibliothek, Ms. 163. Foto: Universität Graz. CC BY-NC-SA 3.0 AT" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas1",
+    "type": "Canvas",
+    "label": {"none":["276v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas1/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164901",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164901",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas2",
+    "type": "Canvas",
+    "label": {"none":["277r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas2/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164902",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164902",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas3",
+    "type": "Canvas",
+    "label": {"none":["277v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas3/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164903",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164903",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas4",
+    "type": "Canvas",
+    "label": {"none":["278r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas4/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164904",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164904",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas5",
+    "type": "Canvas",
+    "label": {"none":["278v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas5/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164905",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164905",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas6",
+    "type": "Canvas",
+    "label": {"none":["279r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas6/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164906",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164906",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas7",
+    "type": "Canvas",
+    "label": {"none":["279v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas7/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164907",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164907",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas8",
+    "type": "Canvas",
+    "label": {"none":["280r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas8/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164908",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164908",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas9",
+    "type": "Canvas",
+    "label": {"none":["280v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas9/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164909",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164909",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas10",
+    "type": "Canvas",
+    "label": {"none":["281r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas10/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164910",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164910",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas11",
+    "type": "Canvas",
+    "label": {"none":["281v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas11/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164911",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164911",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas12",
+    "type": "Canvas",
+    "label": {"none":["282r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas12/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164912",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164912",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas13",
+    "type": "Canvas",
+    "label": {"none":["282v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas13/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164913",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164913",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas14",
+    "type": "Canvas",
+    "label": {"none":["283r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas14/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164914",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164914",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas15",
+    "type": "Canvas",
+    "label": {"none":["283v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas15/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164915",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164915",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas16",
+    "type": "Canvas",
+    "label": {"none":["284r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas16/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164916",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164916",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas17",
+    "type": "Canvas",
+    "label": {"none":["284v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas17/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164917",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164917",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas18",
+    "type": "Canvas",
+    "label": {"none":["285r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas18/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas18/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas18/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164918",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164918",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas19",
+    "type": "Canvas",
+    "label": {"none":["285v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas19/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164919",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164919",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas20",
+    "type": "Canvas",
+    "label": {"none":["286r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas20/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas20/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas20/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164920",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164920",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas21",
+    "type": "Canvas",
+    "label": {"none":["286v"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas21/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164921",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164921",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas22",
+    "type": "Canvas",
+    "label": {"none":["287r"]},
+    "height": 7516,
+    "width": 5272,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas22/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/canvas22/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-182/canvas22/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164922",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164922",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

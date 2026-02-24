@@ -1,0 +1,821 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Zürich, Zentralbibliothek, Ms. A 135 (Z2)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Zürich, Zentralbibliothek, Ms. A 135. Foto: e-codices. CC BY-NC 4.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas1",
+    "type": "Canvas",
+    "label": {"none":["60r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas1/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_060r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_060r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas2",
+    "type": "Canvas",
+    "label": {"none":["60v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas2/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_060v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_060v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas3",
+    "type": "Canvas",
+    "label": {"none":["61r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas3/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_061r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_061r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas4",
+    "type": "Canvas",
+    "label": {"none":["61v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas4/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_061v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_061v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas5",
+    "type": "Canvas",
+    "label": {"none":["62r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas5/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_062r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_062r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas6",
+    "type": "Canvas",
+    "label": {"none":["62v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas6/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_062v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_062v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas7",
+    "type": "Canvas",
+    "label": {"none":["63r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas7/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_063r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_063r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas8",
+    "type": "Canvas",
+    "label": {"none":["63v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas8/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_063v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_063v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas9",
+    "type": "Canvas",
+    "label": {"none":["64r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas9/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_064r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_064r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas10",
+    "type": "Canvas",
+    "label": {"none":["64v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas10/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_064v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_064v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas11",
+    "type": "Canvas",
+    "label": {"none":["65r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas11/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_065r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_065r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas12",
+    "type": "Canvas",
+    "label": {"none":["65v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas12/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_065v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_065v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas13",
+    "type": "Canvas",
+    "label": {"none":["66r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas13/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_066r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_066r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas14",
+    "type": "Canvas",
+    "label": {"none":["66v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas14/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_066v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_066v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas15",
+    "type": "Canvas",
+    "label": {"none":["67r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas15/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_067r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_067r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas16",
+    "type": "Canvas",
+    "label": {"none":["67v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas16/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_067v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_067v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas17",
+    "type": "Canvas",
+    "label": {"none":["68r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas17/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_068r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_068r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas18",
+    "type": "Canvas",
+    "label": {"none":["68v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas18/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas18/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas18/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_068v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_068v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas19",
+    "type": "Canvas",
+    "label": {"none":["69r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas19/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_069r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_069r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas20",
+    "type": "Canvas",
+    "label": {"none":["69v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas20/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas20/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas20/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_069v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_069v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas21",
+    "type": "Canvas",
+    "label": {"none":["70r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas21/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_070r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_070r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas22",
+    "type": "Canvas",
+    "label": {"none":["70v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas22/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas22/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas22/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_070v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_070v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas23",
+    "type": "Canvas",
+    "label": {"none":["71r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas23/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas23/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas23/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_071r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_071r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas24",
+    "type": "Canvas",
+    "label": {"none":["71v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas24/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas24/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas24/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_071v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_071v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas25",
+    "type": "Canvas",
+    "label": {"none":["72r"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas25/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas25/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas25/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_072r.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_072r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas26",
+    "type": "Canvas",
+    "label": {"none":["72v"]},
+    "height": 4992,
+    "width": 3328,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas26/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas26/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/zzb-a-135/canvas26/annoPage",
+            "body": {
+                "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_072v.jp2/full/full/0/default/jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "http://www.e-codices.unifr.ch/loris/zbz/zbz-A0135/zbz-A0135_072v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

@@ -1,0 +1,356 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Heidelberg, Universitätsbibliothek, Cod. Sal. IX, 40 (H)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Heidelberg, Universitätsbibliothek, Cod. Sal. IX, 40. Foto: Universitätsbibliothek Heidelberg. PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas1",
+    "type": "Canvas",
+    "label": {"none":["2v"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas1/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/002v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A002v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas2",
+    "type": "Canvas",
+    "label": {"none":["3r"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas2/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/003r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A003r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas3",
+    "type": "Canvas",
+    "label": {"none":["3v"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas3/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/003v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A003v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas4",
+    "type": "Canvas",
+    "label": {"none":["4r"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas4/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/004r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A004r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas5",
+    "type": "Canvas",
+    "label": {"none":["4v"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas5/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/004v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A004v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas6",
+    "type": "Canvas",
+    "label": {"none":["5r"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas6/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/005r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A005r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas7",
+    "type": "Canvas",
+    "label": {"none":["5v"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas7/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/005v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A005v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas8",
+    "type": "Canvas",
+    "label": {"none":["6r"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas8/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/006r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A006r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas9",
+    "type": "Canvas",
+    "label": {"none":["6v"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas9/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/006v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A006v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas10",
+    "type": "Canvas",
+    "label": {"none":["7r"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas10/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/007r.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A007r.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas11",
+    "type": "Canvas",
+    "label": {"none":["7v"]},
+    "height": 3081,
+    "width": 2008,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/canvas11/annoPage",
+            "body": {
+                "id": "https://digi.ub.uni-heidelberg.de/diglitData/image/salIX40/4/007v.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://digi.ub.uni-heidelberg.de/iiif/2/salIX40%3A007v.jpg",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

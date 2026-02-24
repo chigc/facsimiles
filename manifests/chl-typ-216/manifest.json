@@ -1,0 +1,387 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Cambridge, MA, Harvard University, Houghton Library, Ms. Typ 216 (Cm)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Cambridge, MA, Harvard University, Houghton Library, Ms. Typ 216. Image Rights remain with the library." ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas1",
+    "type": "Canvas",
+    "label": {"none":["f. 1. (seq. 1)"]},
+    "height": 8681,
+    "width": 4860,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas1/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143025/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143025",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas2",
+    "type": "Canvas",
+    "label": {"none":["f. 2. (seq. 2)"]},
+    "height": 8710,
+    "width": 4898,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas2/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143026/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143026",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas3",
+    "type": "Canvas",
+    "label": {"none":["f. 3. (seq. 3)"]},
+    "height": 9297,
+    "width": 4862,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas3/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143027/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143027",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas4",
+    "type": "Canvas",
+    "label": {"none":["f. 4. (seq. 4)"]},
+    "height": 8614,
+    "width": 4913,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas4/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143028/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143028",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas5",
+    "type": "Canvas",
+    "label": {"none":["f. 5. (seq. 5)"]},
+    "height": 10427,
+    "width": 4821,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas5/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143029/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143029",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas6",
+    "type": "Canvas",
+    "label": {"none":["f. 1v. (seq. 6)"]},
+    "height": 8613,
+    "width": 4850,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas6/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143030/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143030",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas7",
+    "type": "Canvas",
+    "label": {"none":["f. 2v. (seq. 7)"]},
+    "height": 8720,
+    "width": 4920,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas7/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143031/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143031",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas8",
+    "type": "Canvas",
+    "label": {"none":["f. 3v. (seq. 8)"]},
+    "height": 9211,
+    "width": 4958,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas8/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143032/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143032",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas9",
+    "type": "Canvas",
+    "label": {"none":["f. 4v. (seq. 9)"]},
+    "height": 8616,
+    "width": 4958,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas9/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143033/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143033",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas10",
+    "type": "Canvas",
+    "label": {"none":["f. 5v. (seq. 10)"]},
+    "height": 10466,
+    "width": 4861,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas10/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143034/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143034",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas11",
+    "type": "Canvas",
+    "label": {"none":["[ entire scroll, recto ] (seq. 11)"]},
+    "height": 21918,
+    "width": 2620,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas11/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143035/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143035",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas12",
+    "type": "Canvas",
+    "label": {"none":["[ entire scroll, verso ] (seq. 12)"]},
+    "height": 21998,
+    "width": 2777,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/chl-typ-216/canvas12/annoPage",
+            "body": {
+                "id": "https://ids.lib.harvard.edu/ids/iiif/497143036/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://ids.lib.harvard.edu/ids/iiif/497143036",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

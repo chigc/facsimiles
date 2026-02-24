@@ -1,0 +1,356 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Cambridge, Corpus Christi College, MS 437 (C5)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Cambridge, Corpus Christi College, MS 437. Foto: Parker Library Stanford. CC BY-NC 4.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas1",
+    "type": "Canvas",
+    "label": {"none":["f. 1v"]},
+    "height": 7578,
+    "width": 5087,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas1/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_001_V_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_001_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas2",
+    "type": "Canvas",
+    "label": {"none":["f. 2r"]},
+    "height": 7554,
+    "width": 5267,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas2/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_002_R_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_002_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas3",
+    "type": "Canvas",
+    "label": {"none":["f. 2v"]},
+    "height": 7602,
+    "width": 5314,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas3/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_002_V_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_002_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas4",
+    "type": "Canvas",
+    "label": {"none":["f. 3r"]},
+    "height": 7566,
+    "width": 5242,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas4/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_003_R_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_003_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas5",
+    "type": "Canvas",
+    "label": {"none":["f. 3v"]},
+    "height": 7590,
+    "width": 5302,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas5/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_003_V_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_003_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas6",
+    "type": "Canvas",
+    "label": {"none":["f. 4r"]},
+    "height": 7638,
+    "width": 5171,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas6/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_004_R_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_004_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas7",
+    "type": "Canvas",
+    "label": {"none":["f. 4v"]},
+    "height": 7602,
+    "width": 5278,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas7/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_004_V_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_004_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas8",
+    "type": "Canvas",
+    "label": {"none":["f. 5r"]},
+    "height": 7638,
+    "width": 5254,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas8/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_005_R_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_005_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas9",
+    "type": "Canvas",
+    "label": {"none":["f. 5v"]},
+    "height": 7662,
+    "width": 5267,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas9/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_005_V_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_005_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas10",
+    "type": "Canvas",
+    "label": {"none":["f. 6r"]},
+    "height": 7507,
+    "width": 5170,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas10/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_006_R_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_006_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas11",
+    "type": "Canvas",
+    "label": {"none":["f. 6v"]},
+    "height": 7554,
+    "width": 5232,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ccc-437/canvas11/annoPage",
+            "body": {
+                "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349/437_006_V_TC_46/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://stacks.stanford.edu/image/iiif/hr471qc4349%252F437_006_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

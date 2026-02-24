@@ -1,0 +1,3115 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Leipzig, Universitätsbibliothek, Ms. 1314 (Le)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Leipzig, Universitätsbibliothek, Ms. 1314. Foto: Universitätsbibliothek Leipzig. PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas1",
+    "type": "Canvas",
+    "label": {"none":["1r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas1/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000003.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000003.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas2",
+    "type": "Canvas",
+    "label": {"none":["1v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas2/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000004.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000004.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas3",
+    "type": "Canvas",
+    "label": {"none":["2r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas3/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000005.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000005.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas4",
+    "type": "Canvas",
+    "label": {"none":["2v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas4/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000006.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000006.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas5",
+    "type": "Canvas",
+    "label": {"none":["3r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas5/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000007.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000007.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas6",
+    "type": "Canvas",
+    "label": {"none":["3v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas6/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000008.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000008.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas7",
+    "type": "Canvas",
+    "label": {"none":["3ar"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas7/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000009.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000009.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas8",
+    "type": "Canvas",
+    "label": {"none":["3av"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas8/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000010.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000010.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas9",
+    "type": "Canvas",
+    "label": {"none":["4r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas9/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000011.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000011.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas10",
+    "type": "Canvas",
+    "label": {"none":["4v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas10/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000012.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000012.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas11",
+    "type": "Canvas",
+    "label": {"none":["5r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas11/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000013.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000013.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas12",
+    "type": "Canvas",
+    "label": {"none":["5v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas12/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000014.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000014.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas13",
+    "type": "Canvas",
+    "label": {"none":["6r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas13/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000015.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000015.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas14",
+    "type": "Canvas",
+    "label": {"none":["6v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas14/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000016.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000016.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas15",
+    "type": "Canvas",
+    "label": {"none":["7r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas15/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000017.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000017.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas16",
+    "type": "Canvas",
+    "label": {"none":["7v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas16/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas16/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas16/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000018.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000018.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas17",
+    "type": "Canvas",
+    "label": {"none":["7ar"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas17/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas17/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas17/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000019.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000019.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas18",
+    "type": "Canvas",
+    "label": {"none":["7av"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas18/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas18/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas18/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000020.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000020.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas19",
+    "type": "Canvas",
+    "label": {"none":["8r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas19/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas19/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas19/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000021.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000021.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas20",
+    "type": "Canvas",
+    "label": {"none":["8v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas20/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas20/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas20/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000022.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000022.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas21",
+    "type": "Canvas",
+    "label": {"none":["9r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas21/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas21/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas21/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000023.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000023.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas22",
+    "type": "Canvas",
+    "label": {"none":["9v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas22/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas22/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas22/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000024.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000024.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas23",
+    "type": "Canvas",
+    "label": {"none":["10r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas23/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas23/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas23/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000025.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000025.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas24",
+    "type": "Canvas",
+    "label": {"none":["10v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas24/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas24/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas24/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000026.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000026.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas25",
+    "type": "Canvas",
+    "label": {"none":["11r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas25/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas25/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas25/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000027.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000027.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas26",
+    "type": "Canvas",
+    "label": {"none":["11v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas26/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas26/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas26/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000028.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000028.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas27",
+    "type": "Canvas",
+    "label": {"none":["12r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas27/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas27/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas27/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000029.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000029.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas28",
+    "type": "Canvas",
+    "label": {"none":["12v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas28/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas28/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas28/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000030.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000030.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas29",
+    "type": "Canvas",
+    "label": {"none":["13r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas29/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas29/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas29/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000031.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000031.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas30",
+    "type": "Canvas",
+    "label": {"none":["13v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas30/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas30/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas30/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000032.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000032.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas31",
+    "type": "Canvas",
+    "label": {"none":["14r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas31/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas31/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas31/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000033.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000033.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas32",
+    "type": "Canvas",
+    "label": {"none":["14v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas32/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas32/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas32/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000034.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000034.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas33",
+    "type": "Canvas",
+    "label": {"none":["15r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas33/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas33/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas33/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000035.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000035.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas34",
+    "type": "Canvas",
+    "label": {"none":["15v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas34/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas34/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas34/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000036.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000036.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas35",
+    "type": "Canvas",
+    "label": {"none":["16r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas35/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas35/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas35/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000037.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000037.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas36",
+    "type": "Canvas",
+    "label": {"none":["16v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas36/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas36/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas36/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000038.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000038.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas37",
+    "type": "Canvas",
+    "label": {"none":["17r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas37/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas37/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas37/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000039.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000039.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas38",
+    "type": "Canvas",
+    "label": {"none":["17v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas38/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas38/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas38/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000040.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000040.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas39",
+    "type": "Canvas",
+    "label": {"none":["18r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas39/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas39/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas39/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000041.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000041.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas40",
+    "type": "Canvas",
+    "label": {"none":["18v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas40/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas40/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas40/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000042.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000042.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas41",
+    "type": "Canvas",
+    "label": {"none":["19r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas41/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas41/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas41/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000043.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000043.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas42",
+    "type": "Canvas",
+    "label": {"none":["19v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas42/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas42/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas42/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000044.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000044.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas43",
+    "type": "Canvas",
+    "label": {"none":["20r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas43/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas43/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas43/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000045.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000045.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas44",
+    "type": "Canvas",
+    "label": {"none":["20v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas44/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas44/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas44/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000046.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000046.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas45",
+    "type": "Canvas",
+    "label": {"none":["21r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas45/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas45/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas45/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000047.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000047.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas46",
+    "type": "Canvas",
+    "label": {"none":["21v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas46/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas46/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas46/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000048.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000048.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas47",
+    "type": "Canvas",
+    "label": {"none":["22r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas47/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas47/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas47/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000049.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000049.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas48",
+    "type": "Canvas",
+    "label": {"none":["22v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas48/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas48/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas48/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000050.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000050.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas49",
+    "type": "Canvas",
+    "label": {"none":["23r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas49/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas49/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas49/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000051.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000051.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas50",
+    "type": "Canvas",
+    "label": {"none":["23v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas50/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas50/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas50/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000052.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000052.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas51",
+    "type": "Canvas",
+    "label": {"none":["24r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas51/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas51/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas51/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000053.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000053.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas52",
+    "type": "Canvas",
+    "label": {"none":["24v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas52/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas52/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas52/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000054.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000054.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas53",
+    "type": "Canvas",
+    "label": {"none":["25r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas53/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas53/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas53/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000055.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000055.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas54",
+    "type": "Canvas",
+    "label": {"none":["25v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas54/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas54/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas54/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000056.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000056.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas55",
+    "type": "Canvas",
+    "label": {"none":["26r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas55/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas55/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas55/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000057.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000057.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas56",
+    "type": "Canvas",
+    "label": {"none":["26v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas56/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas56/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas56/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000058.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000058.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas57",
+    "type": "Canvas",
+    "label": {"none":["27r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas57/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas57/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas57/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000059.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000059.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas58",
+    "type": "Canvas",
+    "label": {"none":["27v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas58/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas58/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas58/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000060.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000060.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas59",
+    "type": "Canvas",
+    "label": {"none":["28r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas59/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas59/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas59/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000061.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000061.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas60",
+    "type": "Canvas",
+    "label": {"none":["28v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas60/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas60/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas60/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000062.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000062.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas61",
+    "type": "Canvas",
+    "label": {"none":["29r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas61/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas61/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas61/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000063.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000063.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas62",
+    "type": "Canvas",
+    "label": {"none":["29v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas62/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas62/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas62/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000064.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000064.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas63",
+    "type": "Canvas",
+    "label": {"none":["30r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas63/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas63/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas63/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000065.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000065.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas64",
+    "type": "Canvas",
+    "label": {"none":["30v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas64/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas64/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas64/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000066.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000066.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas65",
+    "type": "Canvas",
+    "label": {"none":["31r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas65/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas65/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas65/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000067.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000067.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas66",
+    "type": "Canvas",
+    "label": {"none":["31v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas66/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas66/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas66/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000068.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000068.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas67",
+    "type": "Canvas",
+    "label": {"none":["32r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas67/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas67/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas67/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000069.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000069.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas68",
+    "type": "Canvas",
+    "label": {"none":["32v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas68/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas68/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas68/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000070.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000070.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas69",
+    "type": "Canvas",
+    "label": {"none":["33r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas69/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas69/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas69/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000071.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000071.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas70",
+    "type": "Canvas",
+    "label": {"none":["33v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas70/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas70/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas70/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000072.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000072.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas71",
+    "type": "Canvas",
+    "label": {"none":["34r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas71/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas71/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas71/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000073.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000073.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas72",
+    "type": "Canvas",
+    "label": {"none":["34v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas72/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas72/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas72/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000074.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000074.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas73",
+    "type": "Canvas",
+    "label": {"none":["35r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas73/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas73/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas73/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000075.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000075.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas74",
+    "type": "Canvas",
+    "label": {"none":["35v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas74/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas74/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas74/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000076.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000076.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas75",
+    "type": "Canvas",
+    "label": {"none":["36r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas75/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas75/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas75/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000077.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000077.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas76",
+    "type": "Canvas",
+    "label": {"none":["36v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas76/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas76/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas76/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000078.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000078.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas77",
+    "type": "Canvas",
+    "label": {"none":["37r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas77/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas77/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas77/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000079.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000079.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas78",
+    "type": "Canvas",
+    "label": {"none":["37v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas78/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas78/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas78/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000080.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000080.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas79",
+    "type": "Canvas",
+    "label": {"none":["38r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas79/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas79/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas79/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000081.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000081.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas80",
+    "type": "Canvas",
+    "label": {"none":["38v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas80/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas80/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas80/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000082.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000082.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas81",
+    "type": "Canvas",
+    "label": {"none":["39r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas81/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas81/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas81/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000083.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000083.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas82",
+    "type": "Canvas",
+    "label": {"none":["39v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas82/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas82/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas82/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000084.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000084.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas83",
+    "type": "Canvas",
+    "label": {"none":["40r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas83/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas83/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas83/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000085.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000085.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas84",
+    "type": "Canvas",
+    "label": {"none":["40v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas84/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas84/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas84/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000086.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000086.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas85",
+    "type": "Canvas",
+    "label": {"none":["41r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas85/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas85/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas85/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000087.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000087.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas86",
+    "type": "Canvas",
+    "label": {"none":["41v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas86/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas86/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas86/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000088.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000088.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas87",
+    "type": "Canvas",
+    "label": {"none":["42r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas87/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas87/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas87/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000089.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000089.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas88",
+    "type": "Canvas",
+    "label": {"none":["42v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas88/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas88/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas88/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000090.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000090.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas89",
+    "type": "Canvas",
+    "label": {"none":["43r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas89/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas89/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas89/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000091.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000091.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas90",
+    "type": "Canvas",
+    "label": {"none":["43v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas90/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas90/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas90/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000092.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000092.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas91",
+    "type": "Canvas",
+    "label": {"none":["44r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas91/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas91/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas91/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000093.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000093.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas92",
+    "type": "Canvas",
+    "label": {"none":["44v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas92/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas92/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas92/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000094.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000094.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas93",
+    "type": "Canvas",
+    "label": {"none":["45r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas93/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas93/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas93/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000095.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000095.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas94",
+    "type": "Canvas",
+    "label": {"none":["45v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas94/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas94/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas94/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000096.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000096.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas95",
+    "type": "Canvas",
+    "label": {"none":["46r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas95/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas95/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas95/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000097.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000097.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas96",
+    "type": "Canvas",
+    "label": {"none":["46v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas96/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas96/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas96/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000098.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000098.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas97",
+    "type": "Canvas",
+    "label": {"none":["47r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas97/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas97/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas97/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000099.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000099.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas98",
+    "type": "Canvas",
+    "label": {"none":["47v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas98/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas98/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas98/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000100.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000100.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas99",
+    "type": "Canvas",
+    "label": {"none":["48r"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas99/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas99/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas99/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000101.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000101.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas100",
+    "type": "Canvas",
+    "label": {"none":["48v"]},
+    "height": 5616,
+    "width": 3744,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas100/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas100/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/lub-1314/canvas100/annoPage",
+            "body": {
+                "id": "https://iiif.ub.uni-leipzig.de/0000012679/00000102.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.ub.uni-leipzig.de/iiif/j2k/0000/0126/0000012679/00000102.jpx",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

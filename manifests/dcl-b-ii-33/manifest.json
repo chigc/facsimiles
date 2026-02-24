@@ -1,0 +1,387 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Durham, Cathedral Library, MS B.II.33 (Du)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Durham, Cathedral Library, MS B.II.33. Foto: Durham University. CC BY-NC-ND 4.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas1",
+    "type": "Canvas",
+    "label": {"none":["f.1r"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas1/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/c015a6b78f723b70c0f35e7399c4e4fe.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/c015a6b78f723b70c0f35e7399c4e4fe.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas2",
+    "type": "Canvas",
+    "label": {"none":["f.1v"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas2/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/21c7ece41cb66838ef1e79014d43442e.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/21c7ece41cb66838ef1e79014d43442e.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas3",
+    "type": "Canvas",
+    "label": {"none":["f.2r"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas3/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/7521a25046273c29ca3dfb76c6651850.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/7521a25046273c29ca3dfb76c6651850.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas4",
+    "type": "Canvas",
+    "label": {"none":["f.2v"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas4/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/958794623a38d8e45cc55f5bbf3954cf.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/958794623a38d8e45cc55f5bbf3954cf.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas5",
+    "type": "Canvas",
+    "label": {"none":["f.3r"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas5/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/1e76048b71cd299f68e3ac39b976d650.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/1e76048b71cd299f68e3ac39b976d650.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas6",
+    "type": "Canvas",
+    "label": {"none":["f.3v"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas6/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/e474c7fff9e2bde8f41f47db5c56b0e4.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/e474c7fff9e2bde8f41f47db5c56b0e4.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas7",
+    "type": "Canvas",
+    "label": {"none":["f.4r"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas7/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/29f610dce1fc0ae71e65c81e34820e66.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/29f610dce1fc0ae71e65c81e34820e66.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas8",
+    "type": "Canvas",
+    "label": {"none":["f.4v"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas8/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/31ccc5bcc5e24d9ee7be82db26db9bc3.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/31ccc5bcc5e24d9ee7be82db26db9bc3.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas9",
+    "type": "Canvas",
+    "label": {"none":["f.5r"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas9/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/44d639ce37547ac74bd2211e8325b0e6.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/44d639ce37547ac74bd2211e8325b0e6.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas10",
+    "type": "Canvas",
+    "label": {"none":["f.5v"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas10/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/a16fb53af231bd6e5b110fb9e06ae2d6.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/a16fb53af231bd6e5b110fb9e06ae2d6.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas11",
+    "type": "Canvas",
+    "label": {"none":["f.6r"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas11/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/339e504e029bbb646dbb259d97c633fa.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/339e504e029bbb646dbb259d97c633fa.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas12",
+    "type": "Canvas",
+    "label": {"none":["f.6v"]},
+    "height": 7350,
+    "width": 6375,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/canvas12/annoPage",
+            "body": {
+                "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/26e2fc9bc8562d6444816a36de0d9544.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif.durham.ac.uk/iiif/trifle/32150/t2/mg/73/t2mg732d906f/26e2fc9bc8562d6444816a36de0d9544.jp2",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

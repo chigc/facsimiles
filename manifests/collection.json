@@ -1,0 +1,70 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://chigc.github.io/facsimiles/manifests/collection.json",
+    "type": "Collection",
+    "label": {
+        "none": ["Compendium Historiae: Manuscript images available via IIIF in other institutions"]
+    },
+    "provider": [
+        {
+            "id": "https://digital-humanities.uni-graz.at/en/",
+            "type": "Agent",
+            "label": {
+                "none": ["Department of Digital Humanities"]
+            }
+        }
+    ],
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "requiredStatement": {
+        "label": {
+            "none": ["Recommended citation"]
+        },
+        "value": {
+            "none": ["<i>'Peter of Poitiers's Compendium Historiae: a digital edition'</i>, online at: <a href='https://gams.uni-graz.at/context:chigc'>https://gams.uni-graz.at/context:chigc</a>"]
+        }
+    },
+    "items": [                  
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/collection_1.json",
+            "type": "Collection",
+            "label": {
+                "none":["Graph Version 1 (Standard Structure)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/collection_2.json",
+            "type": "Collection",
+            "label": {
+                "none":["Graph Version 2 (Six Ages Structure)"]
+            }
+        },
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/collection_3.json",
+            "type": "Collection",
+            "label": {
+                "none":["Graph Version 3"]
+            }
+        },
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/collection_4.json",
+            "type": "Collection",
+            "label": {
+                "none":["Graph Version 4 (Linear Structure)"]
+            }
+        },
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/collection_6.json",
+            "type": "Collection",
+            "label": {
+                "none":["Graph Version 6 (Horizontal Structure)"]
+            }
+        },
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/collection_unassigned.json",
+            "type": "Collection",
+            "label": {
+                "none":["Graph Version unassigned"]
+            }
+        }
+    ]
+}

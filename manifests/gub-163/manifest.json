@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/gub-163/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Graz, Universitätsbibliothek, Ms. 163 (G1)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Graz, Universitätsbibliothek, Ms. 163. Foto: Universität Graz. CC BY-NC-SA 3.0 AT" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/gub-163/canvas1",
+    "type": "Canvas",
+    "label": {"none":["1r uf"]},
+    "height": 35295,
+    "width": 4286,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/gub-163/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-163/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/gub-163/canvas1/annoPage",
+            "body": {
+                "id": "https://unipub.uni-graz.at/download/webcache/1000/10164343",
+                "type": "Image",
+                "service": [{
+                  "id": "https://unipub.uni-graz.at/i3f/v20/10164343",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

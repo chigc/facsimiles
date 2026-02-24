@@ -1,0 +1,252 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://chigc.github.io/facsimiles/manifests/collection_1.json",
+    "type": "Collection",
+    "label": {
+        "none": ["Graph Version 1 (Standard Structure): Manuscript images available via IIIF in other institutions"]
+    },
+    "provider": [
+        {
+            "id": "https://digital-humanities.uni-graz.at/en/",
+            "type": "Agent",
+            "label": {
+                "none": ["Department of Digital Humanities"]
+            },
+            "logo": [
+                {
+                    "id": "https://gams.uni-graz.at/assets/img/ZIM_schwarz.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ]
+        }
+    ],
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "requiredStatement": {
+        "label": {
+            "none": ["Recommended citation"]
+        },
+        "value": {
+            "none": ["<i>'Peter of Poitiers's Compendium Historiae: a digital edition'</i>, online at: <a href='https://gams.uni-graz.at/context:chigc'>https://gams.uni-graz.at/context:chigc</a>"]
+        }
+    },
+    "items": [                  
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/cul-dd-8-12/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Cambridge, University Library, MS Dd. 8.12 (C15)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/dcl-b-ii-33/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Durham, Cathedral Library, MS B.II.33 (Du)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/lzs-227/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Lilienfeld, Zisterzienserstift, Cod. 227 (Lf)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-390/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Linz, Oberösterreichische Landesbibliothek, Hs. 390 (Schiffmann 272) (Lz)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/lbl-cot-vit-c-iii/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["London, British Library, Cotton MS Vitellius C III (L3)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/lol-490/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Linz, Oberösterreichische Landesbibliothek, Hs. 490 (Schiffmann 26) (Lz1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-055/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 2° 055 (E1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-108/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 2° 108 (E)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/hub-sal-ix-40/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Heidelberg, Universitätsbibliothek, Cod. Sal. IX, 40 (H)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-2660/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 2660 (M5)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-19414/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 19414 (M6)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-363/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Wien, Österreichische Nationalbibliothek, Cod. 363 (W)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-364/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Wien, Österreichische Nationalbibliothek, Cod. 364 (W7)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Wien, Österreichische Nationalbibliothek, Cod. 378 (W1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Leiden, Universiteitsbibliotheek, VLF 4 (Ln)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/lun-vlf-31/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Leiden, Universiteitsbibliotheek, VLF 31 (Ln1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Wrocław, Biblioteka Uniwersytecka, I F 103 (Wr1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/nbl-osborn-fa75/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["New Haven, Yale University, Beinecke Rare Book and Manuscript Library, Osborne fa75 (Nh)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/nbl-mar-26/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["New Haven, Yale University, Beinecke Rare Book and Manuscript Library, Marston MS 26 (Nh1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-1548/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Wien, Österreichische Nationalbibliothek, Cod. 1548 (W4)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Princeton, Princeton University Library, MS Scheide 6 (Pn)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-4-173/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 4° 173 (E3)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-ii/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Berlin, Staatsbibliothek, Ms. theol. lat. fol. 64, II (B6b)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-215/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 215 (M16)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mrm-mik-6365/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Mikulov, Regionální muzeum v Mikulově, MIK 6365 (Mv)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/gub-182/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Graz, Universitätsbibliothek, Ms. 182 (G)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-29/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Cambridge, Corpus Christi College, MS 29 (C2)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/kac-696/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Klosterneuburg, Augustiner-Chorherrenstift, Cod. 696 (K)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/ccc-437/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Cambridge, Corpus Christi College, MS 437 (C5)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Cambridge, Trinity College, MS B.15.4 (C8)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-5/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Cambridge, Trinity College, MS B.15.5 (C)"]
+            }
+        }
+    ]
+}

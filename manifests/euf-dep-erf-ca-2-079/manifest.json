@@ -1,0 +1,387 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 2° 079 (E2)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 2° 079. Foto: Digitale Historische Bibliothek Erfurt/Gotha. PDM 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas1",
+    "type": "Canvas",
+    "label": {"none":["91r - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1877"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas1/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0187.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0187.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas2",
+    "type": "Canvas",
+    "label": {"none":["91v - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1887"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas2/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0188.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0188.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas3",
+    "type": "Canvas",
+    "label": {"none":["92r - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1891"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas3/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0189.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0189.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas4",
+    "type": "Canvas",
+    "label": {"none":["92v - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1908"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas4/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0190.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0190.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas5",
+    "type": "Canvas",
+    "label": {"none":["93r - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1912"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas5/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0191.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0191.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas6",
+    "type": "Canvas",
+    "label": {"none":["93v - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1920"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas6/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0192.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0192.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas7",
+    "type": "Canvas",
+    "label": {"none":["94r - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1934"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas7/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0193.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0193.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas8",
+    "type": "Canvas",
+    "label": {"none":["94v - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1941"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas8/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0194.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0194.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas9",
+    "type": "Canvas",
+    "label": {"none":["95r - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1958"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas9/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0195.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0195.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas10",
+    "type": "Canvas",
+    "label": {"none":["95v - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1965"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas10/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0196.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0196.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas11",
+    "type": "Canvas",
+    "label": {"none":["96r - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1975"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas11/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0197.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0197.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas12",
+    "type": "Canvas",
+    "label": {"none":["96v - urn:nbn:de:urmel-675fe6e3-afdd-48aa-8671-3e95edc078e06-00014966-1981"]},
+    "height": 6924,
+    "width": 5369,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/canvas12/annoPage",
+            "body": {
+                "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0198.tif",
+                "type": "Image",
+                "service": [{
+                  "id": "https://dhb.thulb.uni-jena.de/api/iiif/image/v2/ufb_derivate_00014966%2FCA-2-00079_0198.tif",
+                  "profile": "http://iiif.io/api/image/2/profiles/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

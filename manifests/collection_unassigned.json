@@ -1,0 +1,252 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://chigc.github.io/facsimiles/manifests/collection_unassigned.json",
+    "type": "Collection",
+    "label": {
+        "none": ["Graph Version unassigned: Manuscript images available via IIIF in other institutions"]
+    },
+    "provider": [
+        {
+            "id": "https://digital-humanities.uni-graz.at/en/",
+            "type": "Agent",
+            "label": {
+                "none": ["Department of Digital Humanities"]
+            },
+            "logo": [
+                {
+                    "id": "https://gams.uni-graz.at/assets/img/ZIM_schwarz.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ]
+        }
+    ],
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "requiredStatement": {
+        "label": {
+            "none": ["Recommended citation"]
+        },
+        "value": {
+            "none": ["<i>'Peter of Poitiers's Compendium Historiae: a digital edition'</i>, online at: <a href='https://gams.uni-graz.at/context:chigc'>https://gams.uni-graz.at/context:chigc</a>"]
+        }
+    },
+    "items": [                  
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbs-1708/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Melk, Benediktinerstift, Cod. 1708 (929, R 14) (Mk)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsu-mbs-0121/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Bremen, Staats- und Universitätsbibliothek Bremen, msb 0121 (Bn)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/euf-dep-erf-ca-2-079/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Erfurt, Universitäts- und Forschungsbibliothek Erfurt/Gotha, Dep. Erf. CA. 2° 079 (E2)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-inc-quart-706a/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Frankfurt am Main, Stadt- und Universitätsbibliothek, Inc. quart 706a (Fm1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-4/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Gotha, Forschungs- und Landesbibliothek, Chart. A 4 (Go)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/gfl-cha-a-16/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Gotha, Forschungs- und Landesbibliothek, Chart. A 16 (Go1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/gou-4-theol-293/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Göttingen, Niedersächsische Staats- und Universitätsbibliothek, 4° Cod. Ms. theol. 293 (Gö1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/lub-1314/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Leipzig, Universitätsbibliothek, Ms. 1314 (Le)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-cgm-252/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Cgm 252 (M15)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-cgm-564/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Cgm 564 (M13)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/abs-583/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Admont, Benediktinerstift, Cod. 583 (Ad1)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-8201/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 8201 (M10)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-14969/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 14969 (M20)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-16223/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 16223 (M21)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-18365/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 18365 (M12)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mbb-clm-28173/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Bayerische Staatsbibliothek, Clm 28173 (M14)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/mlm-4-989/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["München, Universitätsbibliothek, 4° Cod. ms. 989 (M7)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/fbm-plut-20-56/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Firenze, Biblioteca Medicea Laurenziana, Plut. 20.56 (F3)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/rmw-10-a-15/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Den Haag, Rijksmuseum Meermanno-Westreenianum, Ms. 10 A 15 (Dh)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/uun-261/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Utrecht, Universiteitsbibliotheek, Hs 3 C 15 (Ut)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/tbu-rps-75-iii/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Toruń, Biblioteka Uniwersytecka, Rps 75/III (Tn)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/sdb-f-20/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Strängnas, Domkyrkobiblioteket, Ms. F 20 (Ss)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/nbl-1183/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["New Haven, Yale University, Beinecke Rare Book and Manuscript Library, Beinecke MS 1183 (Nh2)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/pkc-1066/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Philadelphia, University of Pennsylvania, Kislak Center for Special Collections, Ms. Roll 1066 (Ph2)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-12449/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Wien, Österreichische Nationalbibliothek, Cod. 12449 (W12)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/bsb-theol-lat-fol-64-i/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Berlin, Staatsbibliothek, Ms. theol. lat. fol. 64, I (B6a)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/pkc-2243/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Philadelphia, University of Pennsylvania, Kislak Center for Special Collections, Ms. Codex 2243 (Ph3)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/zzb-a-135/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Zürich, Zentralbibliothek, Ms. A 135 (Z2)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/pnk-iii-e-5/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Praha, Národní knihovna České republiky, III.E.5 (Pr)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/pnk-xxiii-f-204/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Praha, Národní knihovna České republiky, XXIII.F.204 (Pr2)"]
+            }
+        },                   
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/iut-9/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Innsbruck, Universitäts- und Landesbibliothek Tirol, Cod. 9 (I)"]
+            }
+        }
+    ]
+}

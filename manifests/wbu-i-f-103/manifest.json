@@ -1,0 +1,263 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Wrocław, Biblioteka Uniwersytecka, I F 103 (Wr1)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Wrocław, Biblioteka Uniwersytecka, I F 103. Public Domain Mark 1.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas1",
+    "type": "Canvas",
+    "label": {"none":["Strona 210"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas1/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0210/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0210",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas2",
+    "type": "Canvas",
+    "label": {"none":["Strona 211"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas2/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0211/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0211",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas3",
+    "type": "Canvas",
+    "label": {"none":["Strona 212"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas3/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0212/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0212",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas4",
+    "type": "Canvas",
+    "label": {"none":["Strona 213"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas4/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0213/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0213",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas5",
+    "type": "Canvas",
+    "label": {"none":["Strona 214"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas5/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0214/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0214",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas6",
+    "type": "Canvas",
+    "label": {"none":["Strona 215"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas6/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0215/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0215",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas7",
+    "type": "Canvas",
+    "label": {"none":["Strona 216"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas7/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0216/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0216",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas8",
+    "type": "Canvas",
+    "label": {"none":["Strona 217"]},
+    "height": 10881,
+    "width": 15530,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/wbu-i-f-103/canvas8/annoPage",
+            "body": {
+                "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0217/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://glam.uni.wroc.pl/iiif/image-api/RKP_I_F_103_15433_0217",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

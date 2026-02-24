@@ -1,0 +1,480 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Princeton, Princeton University Library, MS Scheide 6 (Pn)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Princeton, Princeton University Library, MS Scheide 6. Image rights remain with the library." ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas1",
+    "type": "Canvas",
+    "label": {"none":["f. 390r."]},
+    "height": 5622,
+    "width": 3457,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas1/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/88%2F09%2F1f%2F88091f0ad78e4ea5b659a5294f4d44d9%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/88%2F09%2F1f%2F88091f0ad78e4ea5b659a5294f4d44d9%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas2",
+    "type": "Canvas",
+    "label": {"none":["f. 390v."]},
+    "height": 5396,
+    "width": 4348,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas2/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/50%2F53%2Fcb%2F5053cbfe682e4a06bbabb3d187fe26a0%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/50%2F53%2Fcb%2F5053cbfe682e4a06bbabb3d187fe26a0%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas3",
+    "type": "Canvas",
+    "label": {"none":["f. 391r."]},
+    "height": 5622,
+    "width": 3457,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas3/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/29%2F65%2F9a%2F29659ac24f4446a09a5ed6232c478306%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/29%2F65%2F9a%2F29659ac24f4446a09a5ed6232c478306%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas4",
+    "type": "Canvas",
+    "label": {"none":["f. 391v."]},
+    "height": 5396,
+    "width": 4348,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas4/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/db%2Fc5%2F9f%2Fdbc59f299a3040e482c90492fec537e3%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/db%2Fc5%2F9f%2Fdbc59f299a3040e482c90492fec537e3%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas5",
+    "type": "Canvas",
+    "label": {"none":["f. 392r."]},
+    "height": 5622,
+    "width": 3457,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas5/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/0f%2F37%2Faa%2F0f37aa53e4e84e24a5cf134b2aeab1f9%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/0f%2F37%2Faa%2F0f37aa53e4e84e24a5cf134b2aeab1f9%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas6",
+    "type": "Canvas",
+    "label": {"none":["f. 392v."]},
+    "height": 5396,
+    "width": 4348,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas6/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/d5%2F65%2F79%2Fd565794eac2a48c29647fdc2843279bc%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/d5%2F65%2F79%2Fd565794eac2a48c29647fdc2843279bc%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas7",
+    "type": "Canvas",
+    "label": {"none":["f. 393r."]},
+    "height": 5622,
+    "width": 3457,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas7/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/e6%2Fcc%2Fca%2Fe6cccabc70b744eeb48237631158a7fc%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/e6%2Fcc%2Fca%2Fe6cccabc70b744eeb48237631158a7fc%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas8",
+    "type": "Canvas",
+    "label": {"none":["f. 393v."]},
+    "height": 5446,
+    "width": 4280,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas8/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/7f%2Fb5%2F95%2F7fb595998bc1451e820c75f6dc2d7b05%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/7f%2Fb5%2F95%2F7fb595998bc1451e820c75f6dc2d7b05%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas9",
+    "type": "Canvas",
+    "label": {"none":["f. 394r."]},
+    "height": 5637,
+    "width": 3554,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas9/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/3f%2F56%2Fc6%2F3f56c609667f4228b38d63c078119a81%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/3f%2F56%2Fc6%2F3f56c609667f4228b38d63c078119a81%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas10",
+    "type": "Canvas",
+    "label": {"none":["f. 394v."]},
+    "height": 5446,
+    "width": 4280,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas10/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/80%2Fbb%2F4b%2F80bb4bb0b80542669e339d2865575121%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/80%2Fbb%2F4b%2F80bb4bb0b80542669e339d2865575121%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas11",
+    "type": "Canvas",
+    "label": {"none":["f. 395r."]},
+    "height": 5637,
+    "width": 3554,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas11/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/0e%2F53%2Fc2%2F0e53c22474b3410fb161c94dd8a1a9d9%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/0e%2F53%2Fc2%2F0e53c22474b3410fb161c94dd8a1a9d9%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas12",
+    "type": "Canvas",
+    "label": {"none":["f. 395v."]},
+    "height": 5446,
+    "width": 4406,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas12/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas12/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas12/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/0d%2Ff0%2F20%2F0df020e28e8c4be19ae360217f3d5ffa%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/0d%2Ff0%2F20%2F0df020e28e8c4be19ae360217f3d5ffa%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas13",
+    "type": "Canvas",
+    "label": {"none":["f. 396r."]},
+    "height": 5637,
+    "width": 3554,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas13/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas13/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas13/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/50%2Fa5%2F59%2F50a55914c1304fe093e7a0b3a89f4b14%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/50%2Fa5%2F59%2F50a55914c1304fe093e7a0b3a89f4b14%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas14",
+    "type": "Canvas",
+    "label": {"none":["f. 396v."]},
+    "height": 5446,
+    "width": 4406,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas14/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas14/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas14/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/79%2F5b%2Fe0%2F795be08c8c254db5b59c1485997813b0%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/79%2F5b%2Fe0%2F795be08c8c254db5b59c1485997813b0%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas15",
+    "type": "Canvas",
+    "label": {"none":["f. 397r."]},
+    "height": 5637,
+    "width": 3554,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas15/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas15/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/pul-scheide-6/canvas15/annoPage",
+            "body": {
+                "id": "https://iiif-cloud.princeton.edu/iiif/2/e1%2F1b%2Fb4%2Fe11bb42c087e4ef581815f0dd7d3d753%2Fintermediate_file/full/1000,/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://iiif-cloud.princeton.edu/iiif/2/e1%2F1b%2Fb4%2Fe11bb42c087e4ef581815f0dd7d3d753%2Fintermediate_file",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

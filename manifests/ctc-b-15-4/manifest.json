@@ -1,0 +1,201 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Cambridge, Trinity College, MS B.15.4 (C8)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Cambridge, Trinity College, MS B.15.4. Foto: Trinity College, Cambridge. CC BY-NC 4.0" ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas1",
+    "type": "Canvas",
+    "label": {"none":["f002v-f003r"]},
+    "height": 4428,
+    "width": 5835,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas1/annoPage",
+            "body": {
+                "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F006_B.15.4_f002v-f003r.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F006_B.15.4_f002v-f003r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas2",
+    "type": "Canvas",
+    "label": {"none":["f003v-f004r"]},
+    "height": 4356,
+    "width": 5859,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas2/annoPage",
+            "body": {
+                "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F007_B.15.4_f003v-f004r.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F007_B.15.4_f003v-f004r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas3",
+    "type": "Canvas",
+    "label": {"none":["f004v-f005r"]},
+    "height": 4447,
+    "width": 5958,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas3/annoPage",
+            "body": {
+                "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F008_B.15.4_f004v-f005r.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F008_B.15.4_f004v-f005r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas4",
+    "type": "Canvas",
+    "label": {"none":["f005v-f006r"]},
+    "height": 4404,
+    "width": 5827,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas4/annoPage",
+            "body": {
+                "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F009_B.15.4_f005v-f006r.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F009_B.15.4_f005v-f006r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas5",
+    "type": "Canvas",
+    "label": {"none":["f006v-f007r"]},
+    "height": 4340,
+    "width": 5859,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas5/annoPage",
+            "body": {
+                "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F010_B.15.4_f006v-f007r.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F010_B.15.4_f006v-f007r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas6",
+    "type": "Canvas",
+    "label": {"none":["f007v-f008r"]},
+    "height": 4372,
+    "width": 5835,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/ctc-b-15-4/canvas6/annoPage",
+            "body": {
+                "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F011_B.15.4_f007v-f008r.jp2/full/full/0/default.jpg",
+                "type": "Image",
+                "service": [{
+                  "id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/B.15.4%2F011_B.15.4_f007v-f008r.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json",
+                  "type": "ImageService2"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

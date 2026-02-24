@@ -1,0 +1,356 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://chigc.github.io/facsimiles/manifests/won-378/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": ["Wien, Österreichische Nationalbibliothek, Cod. 378 (W1)"]
+  },
+  "rights": "http://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": { "none": [ "Image rights" ] },
+    "value": { "none": [ "Wien, Österreichische Nationalbibliothek, Cod. 378. Image rights remain with the library." ] }
+  },
+  "items" : [
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas1",
+    "type": "Canvas",
+    "label": {"none":["16"]},
+    "height": 8167,
+    "width": 6054,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas1/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas1/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas1/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas2",
+    "type": "Canvas",
+    "label": {"none":["17"]},
+    "height": 8082,
+    "width": 6066,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas2/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas2/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas2/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas3",
+    "type": "Canvas",
+    "label": {"none":["18"]},
+    "height": 8167,
+    "width": 6054,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas3/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas3/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas3/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas4",
+    "type": "Canvas",
+    "label": {"none":["19"]},
+    "height": 8119,
+    "width": 6030,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas4/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas4/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas4/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas5",
+    "type": "Canvas",
+    "label": {"none":["20"]},
+    "height": 8166,
+    "width": 6054,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas5/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas5/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas5/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas6",
+    "type": "Canvas",
+    "label": {"none":["21"]},
+    "height": 8119,
+    "width": 6030,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas6/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas6/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas6/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas7",
+    "type": "Canvas",
+    "label": {"none":["22"]},
+    "height": 8166,
+    "width": 6054,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas7/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas7/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas7/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas8",
+    "type": "Canvas",
+    "label": {"none":["23"]},
+    "height": 8140,
+    "width": 6030,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas8/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas8/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas8/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas9",
+    "type": "Canvas",
+    "label": {"none":["24"]},
+    "height": 8166,
+    "width": 6054,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas9/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas9/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas9/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas10",
+    "type": "Canvas",
+    "label": {"none":["25"]},
+    "height": 8140,
+    "width": 6030,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas10/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas10/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas10/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+    "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas11",
+    "type": "Canvas",
+    "label": {"none":["26"]},
+    "height": 8166,
+    "width": 6054,
+    "items": [
+        {
+        "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas11/annoPage",
+        "type": "AnnotationPage",
+        "items": 
+          [
+            {
+            "id": "https://chigc.github.io/facsimiles/manifests/won-378/canvas11/annoPage/anno",
+            "type": "Annotation",
+            "motivation": "painting",
+            "target" : "https://chigc.github.io/facsimiles/manifests/won-378/canvas11/annoPage",
+            "body": {
+                "id": "",
+                "type": "Image",
+                "service": [{
+                  "id": "",
+                  "profile": "level2",
+                  "type": "ImageService3"
+                }]
+              }
+            }
+          ]
+        }
+      ]
+    }    
+  ]
+}

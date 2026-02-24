@@ -1,0 +1,42 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://chigc.github.io/facsimiles/manifests/collection_4.json",
+    "type": "Collection",
+    "label": {
+        "none": ["Graph Version 4 (Linear Structure): Manuscript images available via IIIF in other institutions"]
+    },
+    "provider": [
+        {
+            "id": "https://digital-humanities.uni-graz.at/en/",
+            "type": "Agent",
+            "label": {
+                "none": ["Department of Digital Humanities"]
+            },
+            "logo": [
+                {
+                    "id": "https://gams.uni-graz.at/assets/img/ZIM_schwarz.png",
+                    "type": "Image",
+                    "format": "image/png"
+                }
+            ]
+        }
+    ],
+    "rights": "http://creativecommons.org/licenses/by/4.0/",
+    "requiredStatement": {
+        "label": {
+            "none": ["Recommended citation"]
+        },
+        "value": {
+            "none": ["<i>'Peter of Poitiers's Compendium Historiae: a digital edition'</i>, online at: <a href='https://gams.uni-graz.at/context:chigc'>https://gams.uni-graz.at/context:chigc</a>"]
+        }
+    },
+    "items": [                  
+        {
+            "id": "https://chigc.github.io/facsimiles/manifests/fsu-germ-quart-13/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none":["Frankfurt am Main, Stadt- und Universitätsbibliothek, Ms. germ. quart 13 (Fm)"]
+            }
+        }
+    ]
+}
