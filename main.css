@@ -1,0 +1,19 @@
+html {    
+    scroll-padding-top: 56px; /*skip navbar*/
+}
+
+body {
+    padding-top: 72px;
+}
+
+/* when the viewer is in fullscreen mode, we need to reset the padding to avoid extra space at the top */
+body.fullscreen-active { 
+    padding-top: 0 !important;
+}   
+
+#mdv {
+    z-index: 1;
+    width: 100%;
+    height: 800px;
+    position: relative;
+}
